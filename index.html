@@ -4,17 +4,24 @@
   <meta charset="utf-8">
   <title>That's me.</title>
   
-  <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
   <link rel="icon" type="image/ico" href="favicon.ico"/>
 
   <style>
-  body { background:#3a3a3f; font-family:"Merriweather",serif; font-size:22px; line-height:66px; margin:0; text-align:center; text-rendering:optimizeLegibility; }
+  :root {
+    --c-brand: #f1cb2c;
+  }
+
+  ::-moz-selection { background: var(--c-brand); color: white; }
+  ::selection { background: var(--c-brand); color: white; }
+
+  body { background:#3a3a3f; color:#ddd; font-family:"Merriweather",serif; font-size:22px; line-height:66px; margin:0; text-align:center; text-rendering:optimizeLegibility; }
   
   .header { box-sizing:border-box; height:100vh; padding:32px 80px 96px; position:relative; width:100%; }
 
-  h1 { color:#f1cb2c; font-size:4em; font-weight:500; line-height:1; margin:0; position:absolute; bottom:50%; left:0; width:100%; }
-  .est { color:#4b4b52; font-size:2em; line-height:1.333333em; margin:0.25em 0; position:absolute; top:50%; left:0; width:100%; }
-  
+  h1 { color: var(--c-brand); font-size:4em; font-weight:500; line-height:1; margin:0; position:absolute; bottom:50%; left:0; width:100%; }
+
+  .est { color:#777773; font-size:2em; line-height:1.333333em; margin:0.25em 0; position:absolute; top:50%; left:0; width:100%; }  
   </style>
 </head>
 <body>
@@ -22,5 +29,85 @@
     <h1>Joshua Bryant</h1>
     <p class="est">Full stack developer in <br>Charlottesville, VA</p>
   </div>
+
+  <!-- <main>
+    <section id="work">
+      <h2>Selected Work</h2>
+      <div>
+        Journey Group, Inc.<br>
+        May 2009–present
+      </div>
+    </section>
+
+    <section id="writing">
+      <h2>Writing</h2>
+      <ul>
+        <li>
+          The Only Way to Think<br>
+          https://medium.com/journey-group/the-only-way-to-think-fe56821a7d03
+        </li>
+        <li>
+          The Benefits of Decoupled Content Management<br>
+          https://medium.com/journey-group/the-browser-has-become-the-master-chef-aae51461bd56
+        </li>
+        <li>
+          Sabbatical Series<br>
+          Week One: https://medium.com/@j_shb/sabbatical-week-one-6383812178fb<br>
+          Week Two: https://medium.com/@j_shb/sabbatical-week-two-991e09392b6d<br>
+          Week Three: https://medium.com/@j_shb/sabbatical-week-three-8e8fc21bc9f9<br>
+          Week Four: https://medium.com/@j_shb/sabbatical-week-four-5a4c5adc9b55
+        </li>
+      </ul>
+    </section>
+
+    <section id="speaking">
+      <h2>Speaking</h2>
+      <ul>
+        <li>
+          Guest Lecture (PVCC, 2016)<br>
+          Question & Answer, Web Development Course
+        </li>
+        <li>
+          Guest Lectures (PVCC, 2017)<br>
+          SSL and Encryption, Web Development Course
+        </li>
+        <li>
+          Know Thy Flow<br>
+          edUi Conference (201?)
+        </li>
+        <li>
+          InDesign for Web?<br>
+          edUi Conference (201?)
+        </li>
+        <li>
+          RWD: Nuts & Bolts (201?)<br>
+          Neon Guild, University of Virginia
+        </li>
+      </ul>
+    </section>
+
+    <section id="speaking">
+      <h2>Music</h2>
+
+      <ul>
+        <li>
+          Soundcloud<br>
+          https://soundcloud.com/josh-bryant-12
+        </li>
+        <li>
+          <cite>If There Are Other Places</cite><br>
+          https://open.spotify.com/album/5ZZnrhfaHR2aGSD3cjSr6V?si=2L9hREK0R9C3BDMbVy2dQw
+        </li>
+        <li>
+          Live Productions<br>
+          
+          <cite>Bloody, Bloody Andrew Jackson</cite> (electric guitar, University of Virginia, 2015)<br>
+          <cite>Music Man</cite> (electric bass, Covenant School, 2016)<br>
+          <cite>Hello, Dolly</cite> (electric bass, Four County Players, 2019)
+        </li>
+      </ul>
+    </section>
+
+  </main> -->
 </body>
 </html>

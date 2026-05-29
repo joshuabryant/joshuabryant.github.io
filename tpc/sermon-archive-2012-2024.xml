@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Sermon Archive, 2012–2024, Trinity Presbyterian Church, Charlottesville, VA</title>
     <link>https://www.trinitycville.org</link>
     <description>Sermon audio archive from Trinity Presbyterian Church in Charlottesville, Virginia, spanning 2012 through 2024.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 00:23:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 01:52:57 GMT</lastBuildDate>
     <generator>TPC Sermon Archive Generator</generator>
 
     <item>
@@ -16,7 +17,6 @@
       <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/427167/Him+We+Proclaim.mp3?v=1730427255" length="18672037" type="audio/mpeg" />
       <category>Chris Colquitt</category>
-      <category>Colossians</category>
     </item>
     <item>
       <title>Suffering &amp; Mystery</title>
@@ -26,7 +26,6 @@
       <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/427166/Suffering+%26amp%3B+Mystery.mp3?v=1730427241" length="19420137" type="audio/mpeg" />
       <category>Chris Colquitt</category>
-      <category>Colossians</category>
     </item>
     <item>
       <title>Stable &amp; Steadfast</title>
@@ -36,7 +35,6 @@
       <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/427165/Stable+%26amp%3B+Steadfast.mp3?v=1730427228" length="17692643" type="audio/mpeg" />
       <category>Chris Colquitt</category>
-      <category>Colossians</category>
     </item>
     <item>
       <title>Reconciled to God</title>
@@ -46,7 +44,6 @@
       <pubDate>Sun, 06 Oct 2024 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/427164/Reconciled+to+God.mp3?v=1730427215" length="13755457" type="audio/mpeg" />
       <category>Mick Leary</category>
-      <category>Colossians</category>
     </item>
     <item>
       <title>The Firstborn</title>
@@ -56,7 +53,6 @@
       <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/427163/The+Firstborn.mp3?v=1730427202" length="17329677" type="audio/mpeg" />
       <category>Chris Colquitt</category>
-      <category>Colossians</category>
     </item>
     <item>
       <title>Qualified, Delivered, Redeemed</title>
@@ -66,7 +62,6 @@
       <pubDate>Sun, 22 Sep 2024 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/427162/Qualified%2C+Delivered%2C+Redeemed.mp3?v=1730427189" length="18805686" type="audio/mpeg" />
       <category>Chris Colquitt</category>
-      <category>Colossians</category>
     </item>
     <item>
       <title>Bearing Fruit in Every Good Work</title>
@@ -76,7 +71,6 @@
       <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/427161/Bearing+Fruit+in+Every+Good+Work.mp3?v=1730427175" length="18050658" type="audio/mpeg" />
       <category>Kelly Scott</category>
-      <category>Colossians</category>
     </item>
     <item>
       <title>The Word of Truth</title>
@@ -86,7 +80,6 @@
       <pubDate>Sun, 08 Sep 2024 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/427160/The+Word+of+Truth.mp3?v=1730427162" length="18898937" type="audio/mpeg" />
       <category>Chris Colquitt</category>
-      <category>Colossians</category>
     </item>
     <item>
       <title>Faith, Love, and Hope</title>
@@ -96,7 +89,6 @@
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/427159/Faith%2C+Love%2C+and+Hope.mp3?v=1730427149" length="19399304" type="audio/mpeg" />
       <category>Chris Colquitt</category>
-      <category>Colossians</category>
     </item>
     <item>
       <title>In Christ at Colossae</title>
@@ -106,7 +98,6 @@
       <pubDate>Sun, 25 Aug 2024 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/427157/In+Christ+at+Colossae.mp3?v=1730427121" length="18843498" type="audio/mpeg" />
       <category>Chris Colquitt</category>
-      <category>Colossians</category>
     </item>
     <item>
       <title>Pondering Well</title>
@@ -704,12 +695,12 @@ Rom 3:21-25 | Speaker: Chris Colquitt</description>
     </item>
     <item>
       <title>A Praying Person&apos;s Portrait</title>
-      <description>1 Peter 4:7 | Speaker: Michael Sharrett</description>
+      <description>1 Peter 4:7 | Speaker: Mike Sharrett</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-427025</guid>
       <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/427025/A+Praying+Person%26%23039%3Bs+Portrait.mp3?v=1730424879" length="26201679" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
     </item>
     <item>
       <title>#blessed</title>
@@ -731,12 +722,12 @@ Rom 3:21-25 | Speaker: Chris Colquitt</description>
     </item>
     <item>
       <title>Easter Sunday 2023</title>
-      <description>John 11:32-44 | Speaker: Michael Sharrett | Series: Easter 2023</description>
+      <description>John 11:32-44 | Speaker: Mike Sharrett | Series: Easter 2023</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210720</guid>
       <pubDate>Sun, 09 Apr 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210720/Easter+Sunday+2023.mp3?v=1730424841" length="40656175" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Easter 2023</category>
     </item>
     <item>
@@ -751,22 +742,22 @@ Rom 3:21-25 | Speaker: Chris Colquitt</description>
     </item>
     <item>
       <title>Maundy Thursday 2023</title>
-      <description>John 13:34-35 | Speaker: Michael Sharrett | Series: Easter 2023</description>
+      <description>John 13:34-35 | Speaker: Mike Sharrett | Series: Easter 2023</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210718</guid>
       <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210718/Maundy+Thursday+2023.mp3?v=1730424642" length="19353819" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Easter 2023</category>
     </item>
     <item>
       <title>Are We a Spiritual or Human Church</title>
-      <description>1 Corinthians 3:1-9 | Speaker: Michael Sharrett | Series: A Shepherding Community</description>
+      <description>1 Corinthians 3:1-9 | Speaker: Mike Sharrett | Series: A Shepherding Community</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210717</guid>
       <pubDate>Sun, 02 Apr 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210717/Are+We+a+Spiritual+or+Human+Church.mp3?v=1730424636" length="42149281" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>A Shepherding Community</category>
     </item>
     <item>
@@ -780,12 +771,12 @@ Rom 3:21-25 | Speaker: Chris Colquitt</description>
     </item>
     <item>
       <title>A Humble Shepherding Community</title>
-      <description>1 Peter 5:1-6 | Speaker: Michael Sharrett | Series: A Shepherding Community</description>
+      <description>1 Peter 5:1-6 | Speaker: Mike Sharrett | Series: A Shepherding Community</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210711</guid>
       <pubDate>Sun, 19 Mar 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210711/A+Humble+Shepherding+Community.mp3?v=1730424599" length="21057029" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>A Shepherding Community</category>
     </item>
     <item>
@@ -800,32 +791,32 @@ Rom 3:21-25 | Speaker: Chris Colquitt</description>
     </item>
     <item>
       <title>The Chief Shepherd and His Sheep</title>
-      <description>1 Peter 5:1-5 | Speaker: Michael Sharrett | Series: A Shepherding Community</description>
+      <description>1 Peter 5:1-5 | Speaker: Mike Sharrett | Series: A Shepherding Community</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210705</guid>
       <pubDate>Sun, 05 Mar 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210705/The+Chief+Shepherd+and+His+Sheep.mp3?v=1730424564" length="16940474" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>A Shepherding Community</category>
     </item>
     <item>
       <title>The Call of the Shepherd</title>
-      <description>1 Peter 5:1-5 | Speaker: Michael Sharrett | Series: A Shepherding Community</description>
+      <description>1 Peter 5:1-5 | Speaker: Mike Sharrett | Series: A Shepherding Community</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210703</guid>
       <pubDate>Sun, 26 Feb 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210703/The+Call+of+the+Shepherd.mp3?v=1730424552" length="16661970" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>A Shepherding Community</category>
     </item>
     <item>
       <title>A Shepherding Community</title>
-      <description>1 Peter 5:1-5 | Speaker: Michael Sharrett | Series: A Shepherding Community</description>
+      <description>1 Peter 5:1-5 | Speaker: Mike Sharrett | Series: A Shepherding Community</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210700</guid>
       <pubDate>Sun, 19 Feb 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210700/A+Shepherding+Community.mp3?v=1730424533" length="15685194" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>A Shepherding Community</category>
     </item>
     <item>
@@ -851,12 +842,12 @@ The interruption 6 minutes in was to change microphones | Speaker: Tony Giles | 
     </item>
     <item>
       <title>Renouncing the World</title>
-      <description>1 John 2:15-17 | Speaker: Michael Sharrett | Series: The Believer&apos;s Conflict</description>
+      <description>1 John 2:15-17 | Speaker: Mike Sharrett | Series: The Believer&apos;s Conflict</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210690</guid>
       <pubDate>Sun, 29 Jan 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210690/Renouncing+the+World.mp3?v=1730424473" length="14222114" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>The Believer&apos;s Conflict</category>
     </item>
     <item>
@@ -870,42 +861,42 @@ The interruption 6 minutes in was to change microphones | Speaker: Tony Giles | 
     </item>
     <item>
       <title>There&apos;s a Schemer on the Loose</title>
-      <description>Ephesians 6:10-13 | Speaker: Michael Sharrett | Series: The Believer&apos;s Conflict</description>
+      <description>Ephesians 6:10-13 | Speaker: Mike Sharrett | Series: The Believer&apos;s Conflict</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210686</guid>
       <pubDate>Sun, 15 Jan 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210686/There%26%23039%3Bs+a+Schemer+on+the+Loose.mp3?v=1730424449" length="14017971" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>The Believer&apos;s Conflict</category>
     </item>
     <item>
       <title>Principles of Warfare</title>
-      <description>Genesis 2:16-17 | Speaker: Michael Sharrett | Series: The Believer&apos;s Conflict</description>
+      <description>Genesis 2:16-17 | Speaker: Mike Sharrett | Series: The Believer&apos;s Conflict</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210684</guid>
       <pubDate>Sun, 08 Jan 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210684/Principles+of+Warfare.mp3?v=1730424437" length="14334895" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>The Believer&apos;s Conflict</category>
     </item>
     <item>
       <title>Meditation for the New Year</title>
-      <description>Various Scripture | Speaker: Michael Sharrett | Series: Christmas Season</description>
+      <description>Various Scripture | Speaker: Mike Sharrett | Series: Christmas Season</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210683</guid>
       <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210683/Meditation+for+the+New+Year.mp3?v=1730424431" length="6977821" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Christmas Season</category>
     </item>
     <item>
       <title>Christmas Meditation</title>
-      <description>Luke 2:1-7 | Speaker: Michael Sharrett | Series: Christmas Season</description>
+      <description>Luke 2:1-7 | Speaker: Mike Sharrett | Series: Christmas Season</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210682</guid>
       <pubDate>Sun, 25 Dec 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210682/Christmas%20Meditation.mp3?v=1730424425" length="4820226" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Christmas Season</category>
     </item>
     <item>
@@ -920,22 +911,22 @@ The interruption 6 minutes in was to change microphones | Speaker: Tony Giles | 
     </item>
     <item>
       <title>To the Shepherds He Appeared</title>
-      <description>Luke 2:8-20 | Speaker: Michael Sharrett | Series: Awaiting the Shepherd</description>
+      <description>Luke 2:8-20 | Speaker: Mike Sharrett | Series: Awaiting the Shepherd</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210680</guid>
       <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210680/To+the+Shepherds+He+Appeared.mp3?v=1730424413" length="10699086" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Awaiting the Shepherd</category>
     </item>
     <item>
       <title>The Expected, Yet Undeserved, Shepherd-King</title>
-      <description>Micah 5:1-5 | Speaker: Michael Sharrett | Series: Awaiting the Shepherd</description>
+      <description>Micah 5:1-5 | Speaker: Mike Sharrett | Series: Awaiting the Shepherd</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210679</guid>
       <pubDate>Sun, 04 Dec 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210679/The+Expected%2C+Yet+Undeserved%2C+Shepherd-King.mp3?v=1730424407" length="12779658" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Awaiting the Shepherd</category>
     </item>
     <item>
@@ -961,22 +952,22 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Begging for Wealth</title>
-      <description>Luke 12:13-21 | Speaker: Michael Sharrett | Series: Begging Jesus</description>
+      <description>Luke 12:13-21 | Speaker: Mike Sharrett | Series: Begging Jesus</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210672</guid>
       <pubDate>Sun, 13 Nov 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210672/Begging+for+Wealth.mp3?v=1730424159" length="23254616" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Begging Jesus</category>
     </item>
     <item>
       <title>Begging for Healing</title>
-      <description>Luke 7:1-10 | Speaker: Michael Sharrett | Series: Begging Jesus</description>
+      <description>Luke 7:1-10 | Speaker: Mike Sharrett | Series: Begging Jesus</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210670</guid>
       <pubDate>Sun, 06 Nov 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210670/Begging+for+Healing.mp3?v=1730424147" length="20244796" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Begging Jesus</category>
     </item>
     <item>
@@ -1011,12 +1002,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Begging for Sight</title>
-      <description>Mark 10:46-52 | Speaker: Michael Sharrett | Series: Begging Jesus</description>
+      <description>Mark 10:46-52 | Speaker: Mike Sharrett | Series: Begging Jesus</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210658</guid>
       <pubDate>Sun, 09 Oct 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210658/Begging+for+Sight.mp3?v=1730424073" length="20138923" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Begging Jesus</category>
     </item>
     <item>
@@ -1031,32 +1022,32 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Begging for Mercy</title>
-      <description>Luke 18:9-14 | Speaker: Michael Sharrett | Series: Begging Jesus</description>
+      <description>Luke 18:9-14 | Speaker: Mike Sharrett | Series: Begging Jesus</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210651</guid>
       <pubDate>Sun, 25 Sep 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210651/Begging+for+Mercy.mp3?v=1730424028" length="16630958" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Begging Jesus</category>
     </item>
     <item>
       <title>Beggar&apos;s Stance</title>
-      <description>Luke 17:11-19 | Speaker: Michael Sharrett | Series: Begging Jesus</description>
+      <description>Luke 17:11-19 | Speaker: Mike Sharrett | Series: Begging Jesus</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210646</guid>
       <pubDate>Sun, 18 Sep 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210646/Beggar%26%23039%3Bs+Stance.mp3?v=1730423997" length="11103635" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Begging Jesus</category>
     </item>
     <item>
       <title>Begging for Right-Mindedness</title>
-      <description>Matthew 8:28-34 | Speaker: Michael Sharrett | Series: Begging Jesus</description>
+      <description>Matthew 8:28-34 | Speaker: Mike Sharrett | Series: Begging Jesus</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210643</guid>
       <pubDate>Sun, 11 Sep 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210643/Begging+for+Right-Mindedness.mp3?v=1730423979" length="15262572" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Begging Jesus</category>
     </item>
     <item>
@@ -1101,12 +1092,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Worship</title>
-      <description>Acts 2:42-47, Revelation 4:9-11, Psalm 34:1, Psalm 145:1-7, Revelation 5:9-14, Psalm 143:7-8, 1 Peter 2:9 | Speaker: Michael Sharrett | Series: Our Life Together</description>
+      <description>Acts 2:42-47, Revelation 4:9-11, Psalm 34:1, Psalm 145:1-7, Revelation 5:9-14, Psalm 143:7-8, 1 Peter 2:9 | Speaker: Mike Sharrett | Series: Our Life Together</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210638</guid>
       <pubDate>Sun, 07 Aug 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210638/Worship.mp3?v=1730423738" length="19353686" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Our Life Together</category>
     </item>
     <item>
@@ -1171,32 +1162,32 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>One-anothering Manifested</title>
-      <description>1 Thessalonians 5:12-15 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>1 Thessalonians 5:12-15 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210631</guid>
       <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210631/One-anothering+Manifested.mp3?v=1730423696" length="10858701" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
       <title>Awake in the Light</title>
-      <description>1 Thessalonians 5:1-11 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>1 Thessalonians 5:1-11 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210630</guid>
       <pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210630/Awake+in+the+Light.mp3?v=1730423690" length="14161404" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
       <title>The Day of the Lord</title>
-      <description>1 Thessalonians 5:1-4 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>1 Thessalonians 5:1-4 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210629</guid>
       <pubDate>Sun, 05 Jun 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210629/The+Day+of+the+Lord.mp3?v=1730423684" length="22038292" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
@@ -1211,52 +1202,52 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Hope: Confident Expectation of Glory</title>
-      <description>1 Thessalonians 4:13-18 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>1 Thessalonians 4:13-18 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210627</guid>
       <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210627/Hope%3A+Confident+Expectation+of+Glory.mp3?v=1730423672" length="13921931" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
       <title>Ambitious Aspirations</title>
-      <description>1 Thessalonians 4:11-12 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>1 Thessalonians 4:11-12 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210626</guid>
       <pubDate>Sun, 15 May 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210626/Ambitious+Aspirations.mp3?v=1730423666" length="25282578" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
       <title>Abounding in Love for One Another</title>
-      <description>1 Thessalonians 3:11-13, 4:9-10 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>1 Thessalonians 3:11-13, 4:9-10 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210625</guid>
       <pubDate>Sun, 08 May 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210625/Abounding+in+Love+for+One+Another.mp3?v=1730423660" length="15745484" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
       <title>God’s Good Design for Sexual Ethics</title>
-      <description>1 Thessalonians 4:1-8 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>1 Thessalonians 4:1-8 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210624</guid>
       <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210624/God%C3%A2%C2%80%C2%99s+Good+Design+for+Sexual+Ethics.mp3?v=1730423654" length="14305828" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
       <title>Standing Firm in Faith</title>
-      <description>1 Thessalonians 3:1-10 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>1 Thessalonians 3:1-10 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210623</guid>
       <pubDate>Sun, 24 Apr 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210623/Standing+Firm+in+Faith.mp3?v=1730423648" length="23816635" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
@@ -1331,32 +1322,32 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Integrity and Intensity in Ministry</title>
-      <description>1 Thessalonians 2:1-12 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>1 Thessalonians 2:1-12 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210606</guid>
       <pubDate>Sun, 27 Feb 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210606/Integrity+and+Intensity+in+Ministry.mp3?v=1730423546" length="19374000" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
       <title>Waiting for Jesus</title>
-      <description>1 Thessalonians 1:9-10 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>1 Thessalonians 1:9-10 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210604</guid>
       <pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210604/Waiting+for+Jesus.mp3?v=1730423534" length="18997292" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
       <title>Anatomy of Converting Grace</title>
-      <description>1 Thessalonians 1:9-10 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>1 Thessalonians 1:9-10 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210603</guid>
       <pubDate>Sun, 13 Feb 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210603/Anatomy+of+Converting+Grace.mp3?v=1730423529" length="17684877" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
@@ -1371,32 +1362,32 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>The Transforming Power of Grace</title>
-      <description>1 Thessalonians 1:1-10 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>1 Thessalonians 1:1-10 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210598</guid>
       <pubDate>Sun, 30 Jan 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210598/The+Transforming+Power+of+Grace.mp3?v=1730423504" length="19972979" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
       <title>Advancing Grace</title>
-      <description>1 Thessalonians 1:1-5 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>1 Thessalonians 1:1-5 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210597</guid>
       <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210597/Advancing+Grace.mp3?v=1730423304" length="13541497" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
       <title>How God Multiplies Grace on Earth</title>
-      <description>Acts 17:1-9 | Speaker: Michael Sharrett | Series: Advancing Grace</description>
+      <description>Acts 17:1-9 | Speaker: Mike Sharrett | Series: Advancing Grace</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210596</guid>
       <pubDate>Sun, 16 Jan 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210596/How+God+Multiplies+Grace+on+Earth.mp3?v=1730423298" length="13865367" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Advancing Grace</category>
     </item>
     <item>
@@ -1411,22 +1402,22 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Learning to Lament</title>
-      <description>Psalm 13 | Speaker: Michael Sharrett | Series: Christmas Season</description>
+      <description>Psalm 13 | Speaker: Mike Sharrett | Series: Christmas Season</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210594</guid>
       <pubDate>Sun, 02 Jan 2022 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210594/Learning+to+Lament.mp3?v=1730423286" length="14345061" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Christmas Season</category>
     </item>
     <item>
       <title>Christmas</title>
-      <description>Revelation 21:3-4 | Speaker: Michael Sharrett | Series: Christmas Season</description>
+      <description>Revelation 21:3-4 | Speaker: Mike Sharrett | Series: Christmas Season</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210593</guid>
       <pubDate>Sun, 26 Dec 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210593/Christmas.mp3?v=1730423279" length="11831356" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Christmas Season</category>
     </item>
     <item>
@@ -1441,22 +1432,22 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>He Will Be Great</title>
-      <description>Luke 1:26-37 | Speaker: Michael Sharrett | Series: Preparing for the Incarnation</description>
+      <description>Luke 1:26-37 | Speaker: Mike Sharrett | Series: Preparing for the Incarnation</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210591</guid>
       <pubDate>Sun, 12 Dec 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210591/He+Will+Be+Great.mp3?v=1730423267" length="15887412" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Preparing for the Incarnation</category>
     </item>
     <item>
       <title>What the Incarnation Says about Jesus</title>
-      <description>Matthew 1:18-25 | Speaker: Michael Sharrett | Series: Preparing for the Incarnation</description>
+      <description>Matthew 1:18-25 | Speaker: Mike Sharrett | Series: Preparing for the Incarnation</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210587</guid>
       <pubDate>Sun, 05 Dec 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210587/What+the+Incarnation+Says+about+Jesus.mp3?v=1730423244" length="12150854" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Preparing for the Incarnation</category>
     </item>
     <item>
@@ -1471,32 +1462,32 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Charitable Disagreement</title>
-      <description>Colossians 3:12-17 | Speaker: Michael Sharrett | Series: Ordinary Time</description>
+      <description>Colossians 3:12-17 | Speaker: Mike Sharrett | Series: Ordinary Time</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210584</guid>
       <pubDate>Sun, 21 Nov 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210584/Charitable+Disagreement.mp3?v=1730423226" length="14272032" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Ordinary Time</category>
     </item>
     <item>
       <title>The Beauty of Well-Placed Words</title>
-      <description>Proverbs 25:11 | Speaker: Michael Sharrett | Series: Ordinary Time</description>
+      <description>Proverbs 25:11 | Speaker: Mike Sharrett | Series: Ordinary Time</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210579</guid>
       <pubDate>Sun, 14 Nov 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210579/The+Beauty+of+Well-Placed+Words.mp3?v=1730423195" length="14951828" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Ordinary Time</category>
     </item>
     <item>
       <title>Seeing Others with Humble Eyes</title>
-      <description>Matthew 7:1-5 | Speaker: Michael Sharrett | Series: Ordinary Time</description>
+      <description>Matthew 7:1-5 | Speaker: Mike Sharrett | Series: Ordinary Time</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210573</guid>
       <pubDate>Sun, 07 Nov 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210573/Seeing+Others+with+Humble+Eyes.mp3?v=1730423166" length="12996751" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Ordinary Time</category>
     </item>
     <item>
@@ -1581,12 +1572,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>The Working of the Word of Grace</title>
-      <description>1 Thessalonians 2:13-20 | Speaker: Michael Sharrett | Series: Ordinary Time</description>
+      <description>1 Thessalonians 2:13-20 | Speaker: Mike Sharrett | Series: Ordinary Time</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210539</guid>
       <pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210539/The+Working+of+the+Word+of+Grace.mp3?v=1730422768" length="13751319" type="audio/mpeg" />
-      <category>Michael Sharrett</category>
+      <category>Mike Sharrett</category>
       <category>Ordinary Time</category>
     </item>
     <item>
@@ -1601,11 +1592,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Spiritual Formation: Invited Out of Hiding</title>
-      <description>Gensis 3:1-13 | Series: Ordinary Time</description>
+      <description>Genesis 3:1-13 | Speaker: Robert Cunningham | Series: Ordinary Time</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210537</guid>
       <pubDate>Sun, 22 Aug 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210537/Spiritual+Formation%3A+Invited+Out+of+Hiding.mp3?v=1730422756" length="16828339" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Ordinary Time</category>
     </item>
     <item>
@@ -1620,7 +1612,7 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>A Call to Unity: The Character of Community</title>
-      <description>Eph 4:1-6 | Speaker: Jesse Robinson | Series: Ordinary Time</description>
+      <description>Ephesians 4:1-6 | Speaker: Jesse Robinson | Series: Ordinary Time</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210535</guid>
       <pubDate>Sun, 08 Aug 2021 00:00:00 GMT</pubDate>
@@ -1640,20 +1632,22 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Bearing Witness to Our Beliefs</title>
-      <description>1 John 5:1-12 | Series: Ordinary Time</description>
+      <description>1 John 5:1-12 | Speaker: Joe Magri | Series: Ordinary Time</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210533</guid>
       <pubDate>Sun, 25 Jul 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210533/Bearing+Witness+to+Our+Beliefs.mp3?v=1730422731" length="11657807" type="audio/mpeg" />
+      <category>Joe Magri</category>
       <category>Ordinary Time</category>
     </item>
     <item>
       <title>Living in Love</title>
-      <description>1 John 4:7-21 | Series: Pentecost</description>
+      <description>1 John 4:7-21 | Speaker: Robert Cunningham | Series: Pentecost</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210532</guid>
       <pubDate>Sun, 18 Jul 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210532/Living+in+Love.mp3?v=1730422725" length="12856963" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Pentecost</category>
     </item>
     <item>
@@ -1678,11 +1672,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Living as God&apos;s Children</title>
-      <description>1 John 2:28-3:10 | Series: Pentecost</description>
+      <description>1 John 2:28-3:10 | Speaker: Robert Cunningham | Series: Pentecost</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210529</guid>
       <pubDate>Sun, 27 Jun 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210529/Living+as+God%26%23039%3Bs+Children.mp3?v=1730422708" length="16566898" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Pentecost</category>
     </item>
     <item>
@@ -1737,11 +1732,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Raised to New Life</title>
-      <description>Acts 9:1-19 | Series: Eastertide 2021</description>
+      <description>Acts 9:1-19 | Speaker: Joe Magri | Series: Eastertide 2021</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210523</guid>
       <pubDate>Sun, 16 May 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210523/Raised+to+New+Life.mp3?v=1730422670" length="14046955" type="audio/mpeg" />
+      <category>Joe Magri</category>
       <category>Eastertide 2021</category>
     </item>
     <item>
@@ -1766,20 +1762,22 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Raised from Devastation</title>
-      <description>Luke 24:13-35 | Series: Eastertide 2021</description>
+      <description>Luke 24:13-35 | Speaker: Robert Cunningham | Series: Eastertide 2021</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210519</guid>
       <pubDate>Sun, 25 Apr 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210519/Raised+from+Devastation.mp3?v=1730422653" length="10903255" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Eastertide 2021</category>
     </item>
     <item>
       <title>Raised from Failure</title>
-      <description>John 21:1-24 | Series: Eastertide 2021</description>
+      <description>John 21:1-24 | Speaker: Robert Cunningham | Series: Eastertide 2021</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210518</guid>
       <pubDate>Sun, 18 Apr 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210518/Raised+from+Failure.mp3?v=1730422647" length="12157887" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Eastertide 2021</category>
     </item>
     <item>
@@ -1834,11 +1832,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>The Reversal of the Cross</title>
-      <description>Matthew 20:17-28 | Series: Carrying the Cross of Christ</description>
+      <description>Matthew 20:17-28 | Speaker: Robert Cunningham | Series: Carrying the Cross of Christ</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210511</guid>
       <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210511/The+Reversal+of+the+Cross.mp3?v=1730422404" length="16533976" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Carrying the Cross of Christ</category>
     </item>
     <item>
@@ -1883,11 +1882,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Our Mission of Faith: The Beauty of the Gospel</title>
-      <description>Romans 10:15b | Series: Our Mission of Faith</description>
+      <description>Romans 10:15b | Speaker: Robert Cunningham | Series: Our Mission of Faith</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210505</guid>
       <pubDate>Sun, 31 Jan 2021 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210505/Our+Mission+of+Faith%3A+The+Beauty+of+the+Gospel.mp3?v=1730422373" length="13090640" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Our Mission of Faith</category>
     </item>
     <item>
@@ -1952,20 +1952,22 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>The Many Names of Our Savior: Immanuel</title>
-      <description>Matthew 1:18-25 | Series: The Many Names of Our Savior</description>
+      <description>Matthew 1:18-25 | Speaker: Robert Cunningham | Series: The Many Names of Our Savior</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210498</guid>
       <pubDate>Sun, 13 Dec 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210498/The+Many+Names+of+Our+Savior%3A+Immanuel.mp3?v=1730422329" length="12314113" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>The Many Names of Our Savior</category>
     </item>
     <item>
       <title>The Many Names of Our Savior: Christ</title>
-      <description>Matthew 1:12-16 | Series: The Many Names of Our Savior</description>
+      <description>Matthew 1:12-16 | Speaker: Joe Magri | Series: The Many Names of Our Savior</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210497</guid>
       <pubDate>Sun, 06 Dec 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210497/The+Many+Names+of+Our+Savior%3A+Christ.mp3?v=1730422322" length="9410183" type="audio/mpeg" />
+      <category>Joe Magri</category>
       <category>The Many Names of Our Savior</category>
     </item>
     <item>
@@ -2080,29 +2082,32 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>By Our Wisdom; Children&apos;s Service</title>
-      <description>James 3:13-18 | Series: The Testing of Our Faith - James</description>
+      <description>James 3:13-18 | Speaker: Ben Melchers | Series: The Testing of Our Faith - James</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210480</guid>
       <pubDate>Sun, 18 Oct 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210480/By+Our+Wisdom%3B+Children%26%23039%3Bs+Service.mp3?v=1730422231" length="13416151" type="audio/mpeg" />
+      <category>Ben Melchers</category>
       <category>The Testing of Our Faith - James</category>
     </item>
     <item>
       <title>In Our Words; Children&apos;s Service</title>
-      <description>James 3:1-12 | Series: The Testing of Our Faith - James</description>
+      <description>James 3:1-12 | Speaker: Graham Scharf | Series: The Testing of Our Faith - James</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210478</guid>
       <pubDate>Sun, 11 Oct 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210478/In+Our+Words%3B+Children%26%23039%3Bs+Service.mp3?v=1730422219" length="5272647" type="audio/mpeg" />
+      <category>Graham Scharf</category>
       <category>The Testing of Our Faith - James</category>
     </item>
     <item>
       <title>In Our Words</title>
-      <description>James 3:1-12 | Series: The Testing of Our Faith - James</description>
+      <description>James 3:1-12 | Speaker: Robert Cunningham | Series: The Testing of Our Faith - James</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210479</guid>
       <pubDate>Sun, 11 Oct 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210479/In+Our+Words.mp3?v=1730422225" length="14510983" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>The Testing of Our Faith - James</category>
     </item>
     <item>
@@ -2147,11 +2152,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>In Our Engagements</title>
-      <description>James 1:26-27 | Series: The Testing of Our Faith - James</description>
+      <description>James 1:26-27 | Speaker: Robert Cunningham | Series: The Testing of Our Faith - James</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210471</guid>
       <pubDate>Sun, 20 Sep 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210471/In+Our+Engagements.mp3?v=1730422176" length="8927053" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>The Testing of Our Faith - James</category>
     </item>
     <item>
@@ -2196,12 +2202,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Community and Care</title>
-      <description>Trinity invites us to Community Life. Use your gifts to care for others or reach out to seek care for yourself or loved ones. | Speaker: Tim Jones | Series: This Year at Trinity</description>
+      <description>Trinity invites us to Community Life. Use your gifts to care for others or reach out to seek care for yourself or loved ones. | Speaker: Jesse Robinson | Series: This Year at Trinity</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210467</guid>
       <pubDate>Sun, 23 Aug 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210467/Community%20and%20Care.mp3?v=1730421968" length="3131954" type="audio/mpeg" />
-      <category>Tim Jones</category>
+      <category>Jesse Robinson</category>
       <category>This Year at Trinity</category>
     </item>
     <item>
@@ -2216,20 +2222,22 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Mission Engagement</title>
-      <description>Marty Johnson tells us about opportunities to engage in God&apos;s Mission. | Series: This Year at Trinity</description>
+      <description>Marty Johnson tells us about opportunities to engage in God&apos;s Mission. | Speaker: Marty Johnson | Series: This Year at Trinity</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210465</guid>
       <pubDate>Sun, 16 Aug 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210465/Mission%20Engagement.mp3?v=1730421954" length="2626962" type="audio/mpeg" />
+      <category>Marty Johnson</category>
       <category>This Year at Trinity</category>
     </item>
     <item>
       <title>Mission</title>
-      <description>John 20:19-22 | Series: This Year at Trinity</description>
+      <description>John 20:19-22 | Speaker: Robert Cunningham | Series: This Year at Trinity</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210466</guid>
       <pubDate>Sun, 16 Aug 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210466/Mission.mp3?v=1730421960" length="11114236" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>This Year at Trinity</category>
     </item>
     <item>
@@ -2244,11 +2252,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>TPC-2020Aug09-SF</title>
-      <description>Lane provides an update about ways to engage in Spritual Formation practices. | Series: This Year at Trinity</description>
+      <description>Lane provides an update about ways to engage in Spritual Formation practices. | Speaker: Lane Cowin | Series: This Year at Trinity</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210464</guid>
       <pubDate>Sun, 09 Aug 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210464/TPC-2020Aug09-SF.mp3?v=1730421948" length="2205983" type="audio/mpeg" />
+      <category>Lane Cowin</category>
       <category>This Year at Trinity</category>
     </item>
     <item>
@@ -2263,11 +2272,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>A Community of Suffering Witness</title>
-      <description>Matthew 5:10 | Series: A Couterculteral Community</description>
+      <description>Matthew 5:10 | Speaker: Robert Cunningham | Series: A Couterculteral Community</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210461</guid>
       <pubDate>Sun, 26 Jul 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210461/A+Community+of+Suffering+Witness.mp3?v=1730421930" length="11938100" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>A Couterculteral Community</category>
     </item>
     <item>
@@ -2292,20 +2302,22 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>A Community of Mercy</title>
-      <description>Matthew 5:7 | Series: A Couterculteral Community</description>
+      <description>Matthew 5:7 | Speaker: Joe Magri | Series: A Couterculteral Community</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210458</guid>
       <pubDate>Sun, 05 Jul 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210458/A+Community+of+Mercy.mp3?v=1730421912" length="9163137" type="audio/mpeg" />
+      <category>Joe Magri</category>
       <category>A Couterculteral Community</category>
     </item>
     <item>
       <title>A Community of Longing</title>
-      <description>Matthew 5:6 | Series: A Couterculteral Community</description>
+      <description>Matthew 5:6 | Speaker: Robert Cunningham | Series: A Couterculteral Community</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210457</guid>
       <pubDate>Sun, 28 Jun 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210457/A+Community+of+Longing.mp3?v=1730421906" length="11801809" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>A Couterculteral Community</category>
     </item>
     <item>
@@ -2320,11 +2332,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>A Community of Lament</title>
-      <description>Matthew 5:4 | Series: A Couterculteral Community</description>
+      <description>Matthew 5:4 | Speaker: Robert Cunningham | Series: A Couterculteral Community</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210455</guid>
       <pubDate>Sun, 14 Jun 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210455/A+Community+of+Lament.mp3?v=1730421892" length="13131372" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>A Couterculteral Community</category>
     </item>
     <item>
@@ -2339,11 +2352,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Remembering That We Are a Temple</title>
-      <description>1 Peter 2:4-10</description>
+      <description>1 Peter 2:4-10 | Speaker: Joe Magri</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210443</guid>
       <pubDate>Sun, 31 May 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210443/Remembering+That+We+Are+a+Temple.mp3?v=1730421819" length="10554470" type="audio/mpeg" />
+      <category>Joe Magri</category>
     </item>
     <item>
       <title>Remembering That We Are a Lamp</title>
@@ -2357,11 +2371,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Remembering That We Are a Body</title>
-      <description>1 Corinthians 12:12-27 | Series: Easter 2020</description>
+      <description>1 Corinthians 12:12-27 | Speaker: Robert Cunningham | Series: Easter 2020</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210445</guid>
       <pubDate>Sun, 17 May 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210445/Remembering+That+We+Are+a+Body.mp3?v=1730421831" length="11594104" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Easter 2020</category>
     </item>
     <item>
@@ -2387,11 +2402,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     <item>
       <title>Remembering That We Are a Bride</title>
       <description>Song of Songs 2:8-17, Revelation 19:6-9
-Audio improves after a minute. | Series: Easter 2020</description>
+Audio improves after a minute. | Speaker: Robert Cunningham | Series: Easter 2020</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210449</guid>
       <pubDate>Sun, 26 Apr 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210449/Remembering+That+We+Are+a+Bride.mp3?v=1730421857" length="11520931" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Easter 2020</category>
     </item>
     <item>
@@ -2426,20 +2442,22 @@ Audio improves after a minute. | Series: Easter 2020</description>
     </item>
     <item>
       <title>Fifth Sunday of Lent</title>
-      <description>John 15:26-16:15 | Series: Lent 2020</description>
+      <description>John 15:26-16:15 | Speaker: Joe Magri | Series: Lent 2020</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210454</guid>
       <pubDate>Sun, 29 Mar 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210454/Fifth+Sunday+of+Lent.mp3?v=1730421886" length="10419509" type="audio/mpeg" />
+      <category>Joe Magri</category>
       <category>Lent 2020</category>
     </item>
     <item>
       <title>Fourth Sunday of Lent</title>
-      <description>John 14:1-4, Psalm 23 | Series: Lent 2020</description>
+      <description>John 14:1-4, Psalm 23 | Speaker: Robert Cunningham | Series: Lent 2020</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210453</guid>
       <pubDate>Sun, 22 Mar 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210453/Fourth+Sunday+of+Lent.mp3?v=1730421880" length="13141081" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Lent 2020</category>
     </item>
     <item>
@@ -2464,20 +2482,22 @@ Audio improves after a minute. | Series: Easter 2020</description>
     </item>
     <item>
       <title>The Posture of Love</title>
-      <description>John 13:1-17 | Series: Final Words of First Importance</description>
+      <description>John 13:1-17 | Speaker: Robert Cunningham | Series: Final Words of First Importance</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210424</guid>
       <pubDate>Sun, 01 Mar 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210424/The+Posture+of+Love.mp3?v=1730421491" length="15939941" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Final Words of First Importance</category>
     </item>
     <item>
       <title>Hope for Our Work</title>
-      <description>Revelation 21:1-5, 22-27 Revelation 22:1-5 including conversation with Lane Cowin and Wade Bradshaw. | Series: Our Work, Our Faith, and the Mission of God</description>
+      <description>Revelation 21:1-5, 22-27 Revelation 22:1-5 including conversation with Lane Cowin and Wade Bradshaw. | Speaker: Robert Cunningham | Series: Our Work, Our Faith, and the Mission of God</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210421</guid>
       <pubDate>Sun, 23 Feb 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210421/Hope+for+Our+Work.mp3?v=1730421471" length="16479383" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Our Work, Our Faith, and the Mission of God</category>
     </item>
     <item>
@@ -2513,11 +2533,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Using Our Callings to Bring Sustainability</title>
-      <description>Matthew 11:28-30; includes Wade Bradshaw interviewing Zach Bryant | Series: Our Work, Our Faith, and the Mission of God</description>
+      <description>Matthew 11:28-30; includes Wade Bradshaw interviewing Zach Bryant | Speaker: Robert Cunningham | Series: Our Work, Our Faith, and the Mission of God</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210407</guid>
       <pubDate>Sun, 26 Jan 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210407/Using+Our+Callings+to+Bring+Sustainability.mp3?v=1730421388" length="13778685" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Our Work, Our Faith, and the Mission of God</category>
     </item>
     <item>
@@ -2532,11 +2553,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Using Our Callings to Bring Goodness</title>
-      <description>Micah 6:8, Matthew 5:48; includes Amy Sherman interviewing Graham Svharf | Series: Our Work, Our Faith, and the Mission of God</description>
+      <description>Micah 6:8, Matthew 5:48; includes Amy Sherman interviewing Graham Svharf | Speaker: Robert Cunningham | Series: Our Work, Our Faith, and the Mission of God</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210399</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210399/Using+Our+Callings+to+Bring+Goodness.mp3?v=1730421338" length="12382508" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Our Work, Our Faith, and the Mission of God</category>
     </item>
     <item>
@@ -2551,19 +2573,21 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Joy to the World</title>
-      <description>Hebrews 12:1-2</description>
+      <description>Hebrews 12:1-2 | Speaker: Kyle O&apos;Donnell</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210397</guid>
       <pubDate>Sun, 29 Dec 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210397/Joy+to+the+World.mp3?v=1730421327" length="9344595" type="audio/mpeg" />
+      <category>Kyle O&apos;Donnell</category>
     </item>
     <item>
       <title>Awaiting Christ with King David</title>
-      <description>1 Samuel 16:1, 6:13 | Series: Our Certain Hope</description>
+      <description>1 Samuel 16:1, 6:13 | Speaker: Robert Cunningham | Series: Our Certain Hope</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210396</guid>
       <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210396/Awaiting+Christ+with+King+David.mp3?v=1730421321" length="11489112" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Our Certain Hope</category>
     </item>
     <item>
@@ -2578,11 +2602,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Awaiting Christ with Abraham</title>
-      <description>Hebrews 11:8-10, 39-40 | Series: Our Certain Hope</description>
+      <description>Hebrews 11:8-10, 39-40 | Speaker: Joe Magri | Series: Our Certain Hope</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210394</guid>
       <pubDate>Sun, 08 Dec 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210394/Awaiting+Christ+with+Abraham.mp3?v=1730421309" length="10346298" type="audio/mpeg" />
+      <category>Joe Magri</category>
       <category>Our Certain Hope</category>
     </item>
     <item>
@@ -2647,11 +2672,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>A New Way of Living</title>
-      <description>Ephesians 4:17-32 | Series: Ephesians: Finding Our Place in God&apos;s Story</description>
+      <description>Ephesians 4:17-32 | Speaker: Robert Cunningham | Series: Ephesians: Finding Our Place in God&apos;s Story</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210364</guid>
       <pubDate>Sun, 20 Oct 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210364/A+New+Way+of+Living.mp3?v=1730420907" length="12842174" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Ephesians: Finding Our Place in God&apos;s Story</category>
     </item>
     <item>
@@ -2686,11 +2712,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Practicing Peace in Our Corporate Life</title>
-      <description>Ephesians 2:11-22 | Series: Ephesians: Finding Our Place in God&apos;s Story</description>
+      <description>Ephesians 2:11-22 | Speaker: Robert Cunningham | Series: Ephesians: Finding Our Place in God&apos;s Story</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210350</guid>
       <pubDate>Sun, 22 Sep 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210350/Practicing+Peace+in+Our+Corporate+Life.mp3?v=1730420822" length="11935463" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Ephesians: Finding Our Place in God&apos;s Story</category>
     </item>
     <item>
@@ -2725,11 +2752,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Bound Together in Formation</title>
-      <description>Luke 10:38-42 | Series: Bound Together as the Church</description>
+      <description>Luke 10:38-42 | Speaker: Robert Cunningham | Series: Bound Together as the Church</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210341</guid>
       <pubDate>Sun, 25 Aug 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210341/Bound+Together+in+Formation.mp3?v=1730420585" length="14254578" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Bound Together as the Church</category>
     </item>
     <item>
@@ -2764,11 +2792,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Song of Thanksgiving: The Formation of Love</title>
-      <description>Psalm 136 | Series: Psalms: Songs for the Seasons of Life</description>
+      <description>Psalm 136 | Speaker: John Gayle | Series: Psalms: Songs for the Seasons of Life</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210337</guid>
       <pubDate>Sun, 28 Jul 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210337/Song+of+Thanksgiving%3A+The+Formation+of+Love.mp3?v=1730420561" length="9941560" type="audio/mpeg" />
+      <category>John Gayle</category>
       <category>Psalms: Songs for the Seasons of Life</category>
     </item>
     <item>
@@ -2783,11 +2812,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Song of Hope in Despair</title>
-      <description>Psalm 73 | Series: Psalms: Songs for the Seasons of Life</description>
+      <description>Psalm 73 | Speaker: Joe Magri | Series: Psalms: Songs for the Seasons of Life</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210335</guid>
       <pubDate>Sun, 14 Jul 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210335/Song+of+Hope+in+Despair.mp3?v=1730420549" length="10858936" type="audio/mpeg" />
+      <category>Joe Magri</category>
       <category>Psalms: Songs for the Seasons of Life</category>
     </item>
     <item>
@@ -2802,29 +2832,32 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Song of Confession</title>
-      <description>Psalm 32 | Series: Psalms: Songs for the Seasons of Life</description>
+      <description>Psalm 32 | Speaker: Robert Cunningham | Series: Psalms: Songs for the Seasons of Life</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210330</guid>
       <pubDate>Sun, 30 Jun 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210330/Song+of+Confession.mp3?v=1730420526" length="12048027" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Psalms: Songs for the Seasons of Life</category>
     </item>
     <item>
       <title>Song of Hope</title>
-      <description>Psalm 25 | Series: Psalms: Songs for the Seasons of Life</description>
+      <description>Psalm 25 | Speaker: Heath Salzman | Series: Psalms: Songs for the Seasons of Life</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210323</guid>
       <pubDate>Sun, 23 Jun 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210323/Song+of+Hope.mp3?v=1730420483" length="11934877" type="audio/mpeg" />
+      <category>Heath Salzman</category>
       <category>Psalms: Songs for the Seasons of Life</category>
     </item>
     <item>
       <title>Song of Wonder</title>
-      <description>Psalm 19 | Series: Psalms: Songs for the Seasons of Life</description>
+      <description>Psalm 19 | Speaker: Robert Cunningham | Series: Psalms: Songs for the Seasons of Life</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210322</guid>
       <pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210322/Song+of+Wonder.mp3?v=1730420478" length="12454808" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Psalms: Songs for the Seasons of Life</category>
     </item>
     <item>
@@ -2918,11 +2951,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Subverting Our Expectations About Generosity</title>
-      <description>Mark 14:1-11 | Series: Beholding the King: Subverting Our Expectations</description>
+      <description>Mark 14:1-11 | Speaker: Joe Magri | Series: Beholding the King: Subverting Our Expectations</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210291</guid>
       <pubDate>Sun, 07 Apr 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210291/Subverting+Our+Expectations+About+Generosity.mp3?v=1730420077" length="12409877" type="audio/mpeg" />
+      <category>Joe Magri</category>
       <category>Beholding the King: Subverting Our Expectations</category>
     </item>
     <item>
@@ -2937,11 +2971,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Subverting Our Expectations About Politics</title>
-      <description>Mark 12:13-17 | Series: Beholding the King: Subverting Our Expectations</description>
+      <description>Mark 12:13-17 | Speaker: Robert Cunningham | Series: Beholding the King: Subverting Our Expectations</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210282</guid>
       <pubDate>Sun, 24 Mar 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210282/Subverting+Our+Expectations+About+Politics.mp3?v=1730420022" length="11720571" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Beholding the King: Subverting Our Expectations</category>
     </item>
     <item>
@@ -2986,11 +3021,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>By Warring with Sin</title>
-      <description>Mark 9:42-50 | Series: Following the King: Becoming the People of the Way</description>
+      <description>Mark 9:42-50 | Speaker: Robert Cunningham | Series: Following the King: Becoming the People of the Way</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210260</guid>
       <pubDate>Sun, 17 Feb 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210260/By+Warring+with+Sin.mp3?v=1730419674" length="12619241" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Following the King: Becoming the People of the Way</category>
     </item>
     <item>
@@ -3015,11 +3051,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>By Losing in Order to Gain</title>
-      <description>Mark 8:27-9:1 | Series: Following the King: Becoming the People of the Way</description>
+      <description>Mark 8:27-9:1 | Speaker: Robert Cunningham | Series: Following the King: Becoming the People of the Way</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210243</guid>
       <pubDate>Sun, 27 Jan 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210243/By+Losing+in+Order+to+Gain.mp3?v=1730419572" length="13013459" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Following the King: Becoming the People of the Way</category>
     </item>
     <item>
@@ -3033,20 +3070,22 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>By Receiving His Vision</title>
-      <description>Mark 8:22-26, 10:46-52 | Series: Following the King: Becoming the People of the Way</description>
+      <description>Mark 8:22-26, 10:46-52 | Speaker: Robert Cunningham | Series: Following the King: Becoming the People of the Way</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210238</guid>
       <pubDate>Sun, 06 Jan 2019 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210238/By+Receiving+His+Vision.mp3?v=1730419541" length="11095085" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Following the King: Becoming the People of the Way</category>
     </item>
     <item>
       <title>Because You Have Become Very Dear to Us</title>
-      <description>1 Thessalonians 2:8</description>
+      <description>1 Thessalonians 2:8 | Speaker: Bo Waldo</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210237</guid>
       <pubDate>Sun, 30 Dec 2018 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210237/Because+You+Have+Become+Very+Dear+to+Us.mp3?v=1730419535" length="13502259" type="audio/mpeg" />
+      <category>Bo Waldo</category>
     </item>
     <item>
       <title>Renewal of All Creation</title>
@@ -3060,11 +3099,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Justice for the Nations</title>
-      <description>Isaiah 9:2-7 | Series: Our Longing for Advent</description>
+      <description>Isaiah 9:2-7 | Speaker: Joe Magri | Series: Our Longing for Advent</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210235</guid>
       <pubDate>Sun, 16 Dec 2018 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210235/Justice+for+the+Nations.mp3?v=1730419523" length="10073685" type="audio/mpeg" />
+      <category>Joe Magri</category>
       <category>Our Longing for Advent</category>
     </item>
     <item>
@@ -3128,11 +3168,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>A King Who Feeds His People</title>
-      <description>Mark 6:30-44 | Series: Presenting the King</description>
+      <description>Mark 6:30-44 | Speaker: Robert Cunningham | Series: Presenting the King</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210210</guid>
       <pubDate>Sun, 04 Nov 2018 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210210/A+King+Who+Feeds+His+People.mp3?v=1730419146" length="10453515" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Presenting the King</category>
     </item>
     <item>
@@ -3147,11 +3188,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>A King Who Is Present in Our Pain</title>
-      <description>Mark 5:21-43 | Series: Presenting the King</description>
+      <description>Mark 5:21-43 | Speaker: Robert Cunningham | Series: Presenting the King</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210199</guid>
       <pubDate>Sun, 21 Oct 2018 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210199/A+King+Who+Is+Present+in+Our+Pain.mp3?v=1730419078" length="12083614" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Presenting the King</category>
     </item>
     <item>
@@ -3186,11 +3228,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>A King Who Evokes a Response</title>
-      <description>Mark 2:1-12 | Series: Presenting the King</description>
+      <description>Mark 2:1-12 | Speaker: Robert Cunningham | Series: Presenting the King</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210178</guid>
       <pubDate>Sun, 23 Sep 2018 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210178/A+King+Who+Evokes+a+Response.mp3?v=1730418734" length="11711657" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Presenting the King</category>
     </item>
     <item>
@@ -3205,11 +3248,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>A King Who Re-Narrates Our Story</title>
-      <description>Mark 1:9-13 | Series: Presenting the King</description>
+      <description>Mark 1:9-13 | Speaker: Robert Cunningham | Series: Presenting the King</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210166</guid>
       <pubDate>Sun, 09 Sep 2018 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210166/A+King+Who+Re-Narrates+Our+Story.mp3?v=1730418659" length="10465773" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Presenting the King</category>
     </item>
     <item>
@@ -3244,11 +3288,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Our Life Together in Spiritual Formation</title>
-      <description>John 14:6 &amp; Acts 24:14-16 | Series: Our Life Together</description>
+      <description>John 14:6 &amp; Acts 24:14-16 | Speaker: Joe Magri | Series: Our Life Together</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210162</guid>
       <pubDate>Sun, 12 Aug 2018 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210162/Our+Life+Together+in+Spiritual+Formation.mp3?v=1730418636" length="9590911" type="audio/mpeg" />
+      <category>Joe Magri</category>
       <category>Our Life Together</category>
     </item>
     <item>
@@ -3263,11 +3308,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>What Is Self Control</title>
-      <description>Genesis 39:6-10 | Series: Cultivating a Fruitful Life</description>
+      <description>Genesis 39:6-10 | Speaker: Joe Magri | Series: Cultivating a Fruitful Life</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210159</guid>
       <pubDate>Sun, 29 Jul 2018 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210159/What+Is+Self+Control.mp3?v=1730418618" length="11123577" type="audio/mpeg" />
+      <category>Joe Magri</category>
       <category>Cultivating a Fruitful Life</category>
     </item>
     <item>
@@ -3302,20 +3348,22 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Kindness that Matters</title>
-      <description>Ephesians 2:1-10 | Series: Cultivating a Fruitful Life</description>
+      <description>Ephesians 2:1-10 | Speaker: Joe Magri | Series: Cultivating a Fruitful Life</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210152</guid>
       <pubDate>Sun, 01 Jul 2018 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210152/Kindness+that+Matters.mp3?v=1730418575" length="10953109" type="audio/mpeg" />
+      <category>Joe Magri</category>
       <category>Cultivating a Fruitful Life</category>
     </item>
     <item>
       <title>Patience: A Pillar of Christian Community</title>
-      <description>Matthew 18:21-35 | Series: Cultivating a Fruitful Life</description>
+      <description>Matthew 18:21-35 | Speaker: Heath Salzman | Series: Cultivating a Fruitful Life</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210150</guid>
       <pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210150/Patience%3A+A+Pillar+of+Christian+Community.mp3?v=1730418563" length="10350853" type="audio/mpeg" />
+      <category>Heath Salzman</category>
       <category>Cultivating a Fruitful Life</category>
     </item>
     <item>
@@ -3340,11 +3388,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>A Different Kind of Love</title>
-      <description>1 Corinthians 13:4-10 | Series: Cultivating a Fruitful Life</description>
+      <description>1 Corinthians 13:4-10 | Speaker: D.J. Carter | Series: Cultivating a Fruitful Life</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210143</guid>
       <pubDate>Sun, 03 Jun 2018 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210143/A+Different+Kind+of+Love.mp3?v=1730418520" length="10500182" type="audio/mpeg" />
+      <category>D.J. Carter</category>
       <category>Cultivating a Fruitful Life</category>
     </item>
     <item>
@@ -3398,20 +3447,22 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Defined by Our Holiness in Christ</title>
-      <description>Colossians 3:5-11 | Series: Colossians: A People Defined by Christ</description>
+      <description>Colossians 3:5-11 | Speaker: Robert Cunningham | Series: Colossians: A People Defined by Christ</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210117</guid>
       <pubDate>Sun, 22 Apr 2018 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210117/Defined+by+Our+Holiness+in+Christ.mp3?v=1730418148" length="14949432" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Colossians: A People Defined by Christ</category>
     </item>
     <item>
       <title>Defined by Our Perspective in Christ</title>
-      <description>Colossians 3:1-4 | Series: Colossians: A People Defined by Christ</description>
+      <description>Colossians 3:1-4 | Speaker: Robert Cunningham | Series: Colossians: A People Defined by Christ</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210101</guid>
       <pubDate>Sun, 15 Apr 2018 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210101/Defined+by+Our+Perspective+in+Christ.mp3?v=1730418057" length="11478802" type="audio/mpeg" />
+      <category>Robert Cunningham</category>
       <category>Colossians: A People Defined by Christ</category>
     </item>
     <item>
@@ -3555,12 +3606,12 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Resurrection Hope</title>
-      <description>1 Corinthians 15:50-58 | Speaker: Greg Thompson</description>
+      <description>1 Corinthians 15:50-58 | Speaker: Bo Waldo</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209989</guid>
       <pubDate>Sun, 31 Dec 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209989/Resurrection+Hope.mp3?v=1730416745" length="11087341" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Bo Waldo</category>
     </item>
     <item>
       <title>Announcing the News</title>
@@ -3612,22 +3663,22 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>The Hope of Wisdom</title>
-      <description>Proverbs 16:1-9 | Speaker: Greg Thompson | Series: Wisdom and Foolishness</description>
+      <description>Proverbs 16:1-9 | Speaker: Joe Magri | Series: Wisdom and Foolishness</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209978</guid>
       <pubDate>Sun, 19 Nov 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209978/The+Hope+of+Wisdom.mp3?v=1730416428" length="9537152" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>Wisdom and Foolishness</category>
     </item>
     <item>
       <title>The Challenges of Wisdom</title>
-      <description>Proverbs 30:5, Daniel 2:19-23 | Speaker: Greg Thompson | Series: Wisdom and Foolishness</description>
+      <description>Proverbs 30:5, Daniel 2:19-23 | Speaker: Joe Magri | Series: Wisdom and Foolishness</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209970</guid>
       <pubDate>Sun, 12 Nov 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209970/The+Challenges+of+Wisdom.mp3?v=1730416379" length="10744585" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>Wisdom and Foolishness</category>
     </item>
     <item>
@@ -3642,42 +3693,42 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>The Conversation of Wisdom</title>
-      <description>Proverbs 8:6-13 and Proverbs 15:1-2 | Speaker: Greg Thompson | Series: Wisdom and Foolishness</description>
+      <description>Proverbs 8:6-13 and Proverbs 15:1-2 | Speaker: Joe Magri | Series: Wisdom and Foolishness</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209954</guid>
       <pubDate>Sun, 29 Oct 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209954/The+Conversation+of+Wisdom.mp3?v=1730416293" length="11304466" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>Wisdom and Foolishness</category>
     </item>
     <item>
       <title>The Cultivation of Wisdom</title>
-      <description>Proverbs 27:9-10, Proverbs 27:17 | Speaker: Greg Thompson | Series: Wisdom and Foolishness</description>
+      <description>Proverbs 27:9-10, Proverbs 27:17 | Speaker: Joe Magri | Series: Wisdom and Foolishness</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209949</guid>
       <pubDate>Sun, 22 Oct 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209949/The+Cultivation+of+Wisdom.mp3?v=1730416262" length="10479328" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>Wisdom and Foolishness</category>
     </item>
     <item>
       <title>The Posture of Wisdom</title>
-      <description>Proverbs 3:5-7, 11:2 | Speaker: Greg Thompson | Series: Wisdom and Foolishness</description>
+      <description>Proverbs 3:5-7, 11:2 | Speaker: Joe Magri | Series: Wisdom and Foolishness</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209942</guid>
       <pubDate>Sun, 15 Oct 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209942/The+Posture+of+Wisdom.mp3?v=1730416221" length="9536554" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>Wisdom and Foolishness</category>
     </item>
     <item>
       <title>Invitation to Wisdom</title>
-      <description>Proverbs 1:1-7 | Speaker: Greg Thompson | Series: Wisdom and Foolishness</description>
+      <description>Proverbs 1:1-7 | Speaker: Joe Magri | Series: Wisdom and Foolishness</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209936</guid>
       <pubDate>Sun, 08 Oct 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209936/Invitation+to+Wisdom.mp3?v=1730416433" length="10018463" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>Wisdom and Foolishness</category>
     </item>
     <item>
@@ -3742,23 +3793,23 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
     </item>
     <item>
       <title>Who Is My Neighbor?</title>
-      <description>Luke 10:25-37 | Speaker: Greg Thompson | Series: Walking By the Spirit, Parables of Jesus</description>
+      <description>Luke 10:25-37 | Speaker: Robert Cunningham | Series: Walking By the Spirit, Parables of Jesus</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209865</guid>
       <pubDate>Sun, 20 Aug 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209865/Who+Is+My+Neighbor%3F.mp3?v=1730415290" length="14752763" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Walking By the Spirit, Parables of Jesus</category>
     </item>
     <item>
       <title>Confidence in Christ</title>
       <description>1 John 5:13
-Response to violence in Charlottesville | Speaker: Greg Thompson</description>
+Response to violence in Charlottesville | Speaker: Joe Magri</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209829</guid>
       <pubDate>Sun, 13 Aug 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209829/Confidence+in+Christ.mp3?v=1730414910" length="8416954" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
     </item>
     <item>
       <title>Doing Business for the Kingdom</title>
@@ -3772,12 +3823,12 @@ Response to violence in Charlottesville | Speaker: Greg Thompson</description>
     </item>
     <item>
       <title>Generosity, Compassion, and Hope</title>
-      <description>Luke 14:12-14 | Speaker: Greg Thompson</description>
+      <description>Luke 14:12-14 | Speaker: Joe Magri</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209788</guid>
       <pubDate>Sun, 30 Jul 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209788/Generosity%2C+Compassion%2C+and+Hope.mp3?v=1730414502" length="12418139" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
     </item>
     <item>
       <title>Jesus Our Thirst Quencher</title>
@@ -3799,41 +3850,41 @@ Response to violence in Charlottesville | Speaker: Greg Thompson</description>
     </item>
     <item>
       <title>Finding Ourselves by Denying Ourselves</title>
-      <description>Matthew 16:13-28 | Speaker: Greg Thompson</description>
+      <description>Matthew 16:13-28 | Speaker: Charlie Drew</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209781</guid>
       <pubDate>Sun, 09 Jul 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209781/Finding+Ourselves+by+Denying+Ourselves.mp3?v=1730414459" length="17630651" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Charlie Drew</category>
     </item>
     <item>
       <title>Parable of the Builders</title>
-      <description>Matthew 7:24-27 | Speaker: Greg Thompson | Series: Walking By the Spirit, Parables of Jesus</description>
+      <description>Matthew 7:24-27 | Speaker: Bo Waldo | Series: Walking By the Spirit, Parables of Jesus</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209779</guid>
       <pubDate>Sun, 02 Jul 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209779/Parable+of+the+Builders.mp3?v=1730414447" length="11923516" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Bo Waldo</category>
       <category>Walking By the Spirit, Parables of Jesus</category>
     </item>
     <item>
       <title>The Parable of the Faithful Servant</title>
-      <description>Luke 12:35-48 | Speaker: Greg Thompson | Series: Walking By the Spirit, Parables of Jesus</description>
+      <description>Luke 12:35-48 | Speaker: D.J. Carter | Series: Walking By the Spirit, Parables of Jesus</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209702</guid>
       <pubDate>Sun, 25 Jun 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209702/The+Parable+of+the+Faithful+Servant.mp3?v=1730414435" length="10669943" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>D.J. Carter</category>
       <category>Walking By the Spirit, Parables of Jesus</category>
     </item>
     <item>
       <title>Parables of Kingdom Treasure</title>
-      <description>Matthew 13:44-46 | Speaker: Greg Thompson | Series: Walking By the Spirit, Parables of Jesus</description>
+      <description>Matthew 13:44-46 | Speaker: Joe Magri | Series: Walking By the Spirit, Parables of Jesus</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209698</guid>
       <pubDate>Sun, 18 Jun 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209698/Parables+of+Kingdom+Treasure.mp3?v=1730414411" length="11087935" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>Walking By the Spirit, Parables of Jesus</category>
     </item>
     <item>
@@ -3848,22 +3899,22 @@ Response to violence in Charlottesville | Speaker: Greg Thompson</description>
     </item>
     <item>
       <title>Yearning for the Consummation of Hope</title>
-      <description>Revelation 21:1-5, 22:1-5, 20 | Speaker: Greg Thompson | Series: Visions of Hope: Becoming an Easter People</description>
+      <description>Revelation 21:1-5, 22:1-5, 20 | Speaker: Robert Cunningham | Series: Visions of Hope: Becoming an Easter People</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209685</guid>
       <pubDate>Sun, 28 May 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209685/Yearning+for+the+Consummation+of+Hope.mp3?v=1730414141" length="9570664" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Visions of Hope: Becoming an Easter People</category>
     </item>
     <item>
       <title>Indwelling the City of Hope</title>
-      <description>Revelation 18:1-13, 21:1-8 | Speaker: Greg Thompson | Series: Visions of Hope: Becoming an Easter People</description>
+      <description>Revelation 18:1-13, 21:1-8 | Speaker: Joe Magri | Series: Visions of Hope: Becoming an Easter People</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209681</guid>
       <pubDate>Sun, 21 May 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209681/Indwelling+the+City+of+Hope.mp3?v=1730414117" length="12635776" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>Visions of Hope: Becoming an Easter People</category>
     </item>
     <item>
@@ -3878,32 +3929,32 @@ Response to violence in Charlottesville | Speaker: Greg Thompson</description>
     </item>
     <item>
       <title>Following the Path of Hope</title>
-      <description>Revelation 5 | Speaker: Greg Thompson | Series: Visions of Hope: Becoming an Easter People</description>
+      <description>Revelation 5 | Speaker: Robert Cunningham | Series: Visions of Hope: Becoming an Easter People</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209675</guid>
       <pubDate>Sun, 07 May 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209675/Following+the+Path+of+Hope.mp3?v=1730414087" length="13402716" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Visions of Hope: Becoming an Easter People</category>
     </item>
     <item>
       <title>Rehearsing the Liturgy of Hope</title>
-      <description>Revelation 4 &amp; 5 | Speaker: Greg Thompson | Series: Visions of Hope: Becoming an Easter People</description>
+      <description>Revelation 4 &amp; 5 | Speaker: Robert Cunningham | Series: Visions of Hope: Becoming an Easter People</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209671</guid>
       <pubDate>Sun, 30 Apr 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209671/Rehearsing+the+Liturgy+of+Hope.mp3?v=1730414063" length="12776825" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Visions of Hope: Becoming an Easter People</category>
     </item>
     <item>
       <title>Bearing the Message of Hope</title>
-      <description>Revelation 1:9-20 | Speaker: Greg Thompson | Series: Visions of Hope: Becoming an Easter People</description>
+      <description>Revelation 1:9-20 | Speaker: Robert Cunningham | Series: Visions of Hope: Becoming an Easter People</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209665</guid>
       <pubDate>Sun, 23 Apr 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209665/Bearing+the+Message+of+Hope.mp3?v=1730414030" length="9388776" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Visions of Hope: Becoming an Easter People</category>
     </item>
     <item>
@@ -3928,22 +3979,22 @@ Response to violence in Charlottesville | Speaker: Greg Thompson</description>
     </item>
     <item>
       <title>Gain and Loss in the Kingdom of God</title>
-      <description>Philippians 3:7-11 | Speaker: Greg Thompson | Series: Partakers in His Suffering</description>
+      <description>Philippians 3:7-11 | Speaker: James Averey | Series: Partakers in His Suffering</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209645</guid>
       <pubDate>Sun, 02 Apr 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209645/Gain+and+Loss+in+the+Kingdom+of+God.mp3?v=1730413694" length="10383264" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>James Averey</category>
       <category>Partakers in His Suffering</category>
     </item>
     <item>
       <title>A Wineskin in the Smoke</title>
-      <description>Hebrews 10:26-31, Psalms 119:83 | Speaker: Greg Thompson | Series: Partakers in His Suffering</description>
+      <description>Hebrews 10:26-31, Psalms 119:83 | Speaker: Drew Trotter | Series: Partakers in His Suffering</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209644</guid>
       <pubDate>Sun, 26 Mar 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209644/A+Wineskin+in+the+Smoke.mp3?v=1730413688" length="10878310" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Drew Trotter</category>
       <category>Partakers in His Suffering</category>
     </item>
     <item>
@@ -3989,32 +4040,32 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>A Welcoming Community</title>
-      <description>Acts 10:1-16, 23b-24, 28-29, 34-48 | Speaker: Greg Thompson | Series: A Generous Community: Studies in the Book of Acts</description>
+      <description>Acts 10:1-16, 23b-24, 28-29, 34-48 | Speaker: Josh Chen | Series: A Generous Community: Studies in the Book of Acts</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209614</guid>
       <pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209614/A+Welcoming+Community.mp3?v=1730413503" length="11082797" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Josh Chen</category>
       <category>A Generous Community: Studies in the Book of Acts</category>
     </item>
     <item>
       <title>A Humble Community</title>
-      <description>Acts 9:1-31 | Speaker: Greg Thompson | Series: A Generous Community: Studies in the Book of Acts</description>
+      <description>Acts 9:1-31 | Speaker: D.J. Carter | Series: A Generous Community: Studies in the Book of Acts</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209610</guid>
       <pubDate>Sun, 12 Feb 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209610/A+Humble+Community.mp3?v=1730413259" length="8896859" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>D.J. Carter</category>
       <category>A Generous Community: Studies in the Book of Acts</category>
     </item>
     <item>
       <title>A Serving Community</title>
-      <description>Acts 5:12-16, 6:1-7 | Speaker: Greg Thompson | Series: A Generous Community: Studies in the Book of Acts</description>
+      <description>Acts 5:12-16, 6:1-7 | Speaker: Joe Magri | Series: A Generous Community: Studies in the Book of Acts</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209606</guid>
       <pubDate>Sun, 05 Feb 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209606/A+Serving+Community.mp3?v=1730413235" length="10004805" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>A Generous Community: Studies in the Book of Acts</category>
     </item>
     <item>
@@ -4059,12 +4110,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>The Marvelous Child and the Scoundrels</title>
-      <description>Mark 2:13-17 | Speaker: Greg Thompson | Series: The Marvelous Child Appointed</description>
+      <description>Mark 2:13-17 | Speaker: Joe Magri | Series: The Marvelous Child Appointed</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209587</guid>
       <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209587/The+Marvelous+Child+and+the+Scoundrels.mp3?v=1730413118" length="9715795" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>The Marvelous Child Appointed</category>
     </item>
     <item>
@@ -4079,12 +4130,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>The Marvelous Child and the Patient Hearts</title>
-      <description>Luke 2:22-40 | Speaker: Greg Thompson | Series: The Marvelous Child Appointed</description>
+      <description>Luke 2:22-40 | Speaker: Joe Magri | Series: The Marvelous Child Appointed</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209585</guid>
       <pubDate>Sun, 18 Dec 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209585/The+Marvelous+Child+and+the+Patient+Hearts.mp3?v=1730413106" length="11430582" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>The Marvelous Child Appointed</category>
     </item>
     <item>
@@ -4119,52 +4170,52 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Carrying Out the Vocation of Lament</title>
-      <description>Lamentations 5 | Speaker: Greg Thompson | Series: Tears for the World</description>
+      <description>Lamentations 5 | Speaker: Robert Cunningham | Series: Tears for the World</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209578</guid>
       <pubDate>Sun, 20 Nov 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209578/Carrying+Out+the+Vocation+of+Lament.mp3?v=1730413063" length="11031575" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Tears for the World</category>
     </item>
     <item>
       <title>Enduring the Struggle of Lament</title>
-      <description>Lamentations 4 | Speaker: Greg Thompson | Series: Tears for the World</description>
+      <description>Lamentations 4 | Speaker: Robert Cunningham | Series: Tears for the World</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209572</guid>
       <pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209572/Enduring+the+Struggle+of+Lament.mp3?v=1730412786" length="10836842" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Tears for the World</category>
     </item>
     <item>
       <title>Entering the Crucible of Lament</title>
-      <description>Lamentations 3:1-40 | Speaker: Greg Thompson | Series: Tears for the World</description>
+      <description>Lamentations 3:1-40 | Speaker: Robert Cunningham | Series: Tears for the World</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209567</guid>
       <pubDate>Sun, 06 Nov 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209567/Entering+the+Crucible+of+Lament.mp3?v=1730412755" length="11739770" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Tears for the World</category>
     </item>
     <item>
       <title>Clinging to the Hope of Lament</title>
-      <description>Lamentations 3:17-33 | Speaker: Greg Thompson | Series: Tears for the World</description>
+      <description>Lamentations 3:17-33 | Speaker: Robert Cunningham | Series: Tears for the World</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209557</guid>
       <pubDate>Sun, 30 Oct 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209557/Clinging+to+the+Hope+of+Lament.mp3?v=1730412695" length="12330956" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Tears for the World</category>
     </item>
     <item>
       <title>Rehearsing the Story of Lament</title>
-      <description>Lamentations 2 | Speaker: Greg Thompson | Series: Tears for the World</description>
+      <description>Lamentations 2 | Speaker: Robert Cunningham | Series: Tears for the World</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209554</guid>
       <pubDate>Sun, 23 Oct 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209554/Rehearsing+the+Story+of+Lament.mp3?v=1730412677" length="13730720" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Tears for the World</category>
     </item>
     <item>
@@ -4179,21 +4230,21 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>The Man Who Lost Control</title>
-      <description>John 21:1-19 | Speaker: Greg Thompson</description>
+      <description>John 21:1-19 | Speaker: Skip Ryan</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209544</guid>
       <pubDate>Sun, 09 Oct 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209544/The+Man+Who+Lost+Control.mp3?v=1730412617" length="14605003" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Skip Ryan</category>
     </item>
     <item>
       <title>Perfecting Love for Forty Years</title>
-      <description>1 John 4:4-18 | Speaker: Greg Thompson</description>
+      <description>1 John 4:4-18 | Speaker: Skip Ryan</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209538</guid>
       <pubDate>Sun, 02 Oct 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209538/Perfecting+Love+for+Forty+Years.mp3?v=1730412581" length="14202070" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Skip Ryan</category>
     </item>
     <item>
       <title>Christ the Sojourner</title>
@@ -4247,22 +4298,22 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>His Life in Our Death</title>
-      <description>John 11:17-44 | Speaker: Greg Thompson | Series: Let Not Your Hearts Be Troubled</description>
+      <description>John 11:17-44 | Speaker: Robert Cunningham | Series: Let Not Your Hearts Be Troubled</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209516</guid>
       <pubDate>Sun, 21 Aug 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209516/His+Life+in+Our+Death.mp3?v=1730412255" length="11592454" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Let Not Your Hearts Be Troubled</category>
     </item>
     <item>
       <title>His Truth in Our Doubt</title>
-      <description>John 14:1-6 | Speaker: Greg Thompson | Series: Let Not Your Hearts Be Troubled</description>
+      <description>John 14:1-6 | Speaker: Joe Magri | Series: Let Not Your Hearts Be Troubled</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209515</guid>
       <pubDate>Sun, 14 Aug 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209515/His+Truth+in+Our+Doubt.mp3?v=1730412249" length="10490596" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>Let Not Your Hearts Be Troubled</category>
     </item>
     <item>
@@ -4277,12 +4328,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>His Peace in Our Conflicts</title>
-      <description>John 15: 18-27 | Speaker: Greg Thompson | Series: Let Not Your Hearts Be Troubled</description>
+      <description>John 15: 18-27 | Speaker: Joe Magri | Series: Let Not Your Hearts Be Troubled</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209513</guid>
       <pubDate>Sun, 31 Jul 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209513/His+Peace+in+Our+Conflicts.mp3?v=1730412236" length="8958960" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>Let Not Your Hearts Be Troubled</category>
     </item>
     <item>
@@ -4327,12 +4378,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>His Faithfulness in Our Failure</title>
-      <description>John 21:1-22 | Speaker: Greg Thompson | Series: Let Not Your Hearts Be Troubled</description>
+      <description>John 21:1-22 | Speaker: Robert Cunningham | Series: Let Not Your Hearts Be Troubled</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209502</guid>
       <pubDate>Sun, 26 Jun 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209502/His+Faithfulness+in+Our+Failure.mp3?v=1730412176" length="10031407" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Let Not Your Hearts Be Troubled</category>
     </item>
     <item>
@@ -4347,22 +4398,22 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>His Love in Our Loneliness</title>
-      <description>John 4:1-30 | Speaker: Greg Thompson | Series: Let Not Your Hearts Be Troubled</description>
+      <description>John 4:1-30 | Speaker: Robert Cunningham | Series: Let Not Your Hearts Be Troubled</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209496</guid>
       <pubDate>Sun, 12 Jun 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209496/His+Love+in+Our+Loneliness.mp3?v=1730412139" length="8776183" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Let Not Your Hearts Be Troubled</category>
     </item>
     <item>
       <title>Let Not Your Hearts Be Troubled</title>
-      <description>John 14:27 | Speaker: Greg Thompson | Series: Let Not Your Hearts Be Troubled</description>
+      <description>John 14:27 | Speaker: Robert Cunningham | Series: Let Not Your Hearts Be Troubled</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209493</guid>
       <pubDate>Sun, 05 Jun 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209493/Let+Not+Your+Hearts+Be+Troubled.mp3?v=1730412127" length="8603572" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Let Not Your Hearts Be Troubled</category>
     </item>
     <item>
@@ -4377,12 +4428,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Empowered for a Struggle</title>
-      <description>Ephesians 2:1-2, 6:12, 16-18 | Speaker: Greg Thompson | Series: God&apos;s Empowering Presence</description>
+      <description>Ephesians 2:1-2, 6:12, 16-18 | Speaker: Andrew Field | Series: God&apos;s Empowering Presence</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209485</guid>
       <pubDate>Sun, 22 May 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209485/Empowered+for+a+Struggle.mp3?v=1730411881" length="9104052" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>God&apos;s Empowering Presence</category>
     </item>
     <item>
@@ -4416,12 +4467,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>The Character of Resurrection</title>
-      <description>1 Corinthians 15:35-49 | Speaker: Greg Thompson | Series: Words of Resurrection</description>
+      <description>1 Corinthians 15:35-49 | Speaker: Robert Cunningham | Series: Words of Resurrection</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209463</guid>
       <pubDate>Sun, 24 Apr 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209463/The+Character+of+Resurrection.mp3?v=1730411755" length="11206304" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Words of Resurrection</category>
     </item>
     <item>
@@ -4466,12 +4517,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Reconciling Dishonor</title>
-      <description>1 Peter 2:13-20 | Speaker: Greg Thompson | Series: Reconciliation at the Cross</description>
+      <description>1 Peter 2:13-20 | Speaker: Robert Cunningham | Series: Reconciliation at the Cross</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209454</guid>
       <pubDate>Sun, 20 Mar 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209454/Reconciling+Dishonor.mp3?v=1730411701" length="10411030" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Reconciliation at the Cross</category>
     </item>
     <item>
@@ -4486,12 +4537,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Reconciling Faithlessness</title>
-      <description>Hosea 3:1-3a | Speaker: Greg Thompson | Series: Reconciliation at the Cross</description>
+      <description>Hosea 3:1-3a | Speaker: Andrew Field | Series: Reconciliation at the Cross</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209436</guid>
       <pubDate>Sun, 06 Mar 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209436/Reconciling+Faithlessness.mp3?v=1730411404" length="11732568" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Reconciliation at the Cross</category>
     </item>
     <item>
@@ -4506,22 +4557,22 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Reconciling Envy</title>
-      <description>1 Timothy 6:6-10 | Speaker: Greg Thompson | Series: Reconciliation at the Cross</description>
+      <description>1 Timothy 6:6-10 | Speaker: Andrew Field | Series: Reconciliation at the Cross</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209420</guid>
       <pubDate>Sun, 21 Feb 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209420/Reconciling+Envy.mp3?v=1730411311" length="11151667" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Reconciliation at the Cross</category>
     </item>
     <item>
       <title>Reconciling Violence</title>
-      <description>Matthew 5:43-48 | Speaker: Greg Thompson | Series: Reconciliation at the Cross</description>
+      <description>Matthew 5:43-48 | Speaker: Andrew Field | Series: Reconciliation at the Cross</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209416</guid>
       <pubDate>Sun, 14 Feb 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209416/Reconciling+Violence.mp3?v=1730411287" length="11614790" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Reconciliation at the Cross</category>
     </item>
     <item>
@@ -4576,32 +4627,32 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Longing for Justice</title>
-      <description>Psalm 72 | Speaker: Greg Thompson | Series: The King of Our Longing</description>
+      <description>Psalm 72 | Speaker: Joe Magri | Series: The King of Our Longing</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209389</guid>
       <pubDate>Sun, 27 Dec 2015 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209389/Longing+for+Justice.mp3?v=1730410915" length="11288296" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>The King of Our Longing</category>
     </item>
     <item>
       <title>Longing for Authority</title>
-      <description>Psalm 110 | Speaker: Greg Thompson | Series: The King of Our Longing</description>
+      <description>Psalm 110 | Speaker: Andrew Field | Series: The King of Our Longing</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209388</guid>
       <pubDate>Sun, 20 Dec 2015 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209388/Longing+for+Authority.mp3?v=1730410909" length="9351292" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>The King of Our Longing</category>
     </item>
     <item>
       <title>Longing for Glory</title>
-      <description>Psalm 45 | Speaker: Greg Thompson | Series: The King of Our Longing</description>
+      <description>Psalm 45 | Speaker: Andrew Field | Series: The King of Our Longing</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209387</guid>
       <pubDate>Sun, 13 Dec 2015 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209387/Longing+for+Glory.mp3?v=1730410903" length="12673883" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>The King of Our Longing</category>
     </item>
     <item>
@@ -4676,12 +4727,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Choosing His Path</title>
-      <description>Exodus 24:1-18 | Speaker: Greg Thompson | Series: Streams in the Desert</description>
+      <description>Exodus 24:1-18 | Speaker: Robert Cunningham | Series: Streams in the Desert</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209351</guid>
       <pubDate>Sun, 18 Oct 2015 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209351/Choosing+His+Path.mp3?v=1730410478" length="11917700" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Streams in the Desert</category>
     </item>
     <item>
@@ -4696,12 +4747,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Entering His Rest</title>
-      <description>Exodus 23:10-12 | Speaker: Greg Thompson | Series: Streams in the Desert</description>
+      <description>Exodus 23:10-12 | Speaker: Robert Cunningham | Series: Streams in the Desert</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209342</guid>
       <pubDate>Sun, 04 Oct 2015 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209342/Entering+His+Rest.mp3?v=1730410424" length="11155810" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Streams in the Desert</category>
     </item>
     <item>
@@ -4766,42 +4817,42 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>The People of God through Time</title>
-      <description>Luke 9:28-36 | Speaker: Greg Thompson | Series: Moses and the Journey of Faith</description>
+      <description>Luke 9:28-36 | Speaker: Andrew Field | Series: Moses and the Journey of Faith</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209322</guid>
       <pubDate>Sun, 16 Aug 2015 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209322/The+People+of+God+through+Time.mp3?v=1730410301" length="10110369" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Moses and the Journey of Faith</category>
     </item>
     <item>
       <title>Community and it&apos;s Obstacles</title>
-      <description>Exodus 17:1-7 | Speaker: Greg Thompson | Series: Moses and the Journey of Faith</description>
+      <description>Exodus 17:1-7 | Speaker: Joe Magri | Series: Moses and the Journey of Faith</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209321</guid>
       <pubDate>Sun, 09 Aug 2015 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209321/Community+and+it%26%23039%3Bs+Obstacles.mp3?v=1730410295" length="10429145" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Joe Magri</category>
       <category>Moses and the Journey of Faith</category>
     </item>
     <item>
       <title>The Vocation of Intercession</title>
-      <description>Exodus 33:9-23 | Speaker: Greg Thompson | Series: Moses and the Journey of Faith</description>
+      <description>Exodus 33:9-23 | Speaker: Andrew Field | Series: Moses and the Journey of Faith</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209318</guid>
       <pubDate>Sun, 02 Aug 2015 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209318/The+Vocation+of+Intercession.mp3?v=1730410095" length="11213280" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Moses and the Journey of Faith</category>
     </item>
     <item>
       <title>The Vocation of Wisdom</title>
-      <description>Exodus 18:13-27 | Speaker: Greg Thompson | Series: Moses and the Journey of Faith</description>
+      <description>Exodus 18:13-27 | Speaker: Andrew Field | Series: Moses and the Journey of Faith</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209315</guid>
       <pubDate>Sun, 26 Jul 2015 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209315/The+Vocation+of+Wisdom.mp3?v=1730410074" length="12365168" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Moses and the Journey of Faith</category>
     </item>
     <item>
@@ -4846,12 +4897,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>The Name of Truth</title>
-      <description>Exodus 3:1-14 | Speaker: Greg Thompson | Series: Moses and the Journey of Faith</description>
+      <description>Exodus 3:1-14 | Speaker: Andrew Field | Series: Moses and the Journey of Faith</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209303</guid>
       <pubDate>Sun, 28 Jun 2015 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209303/The+Name+of+Truth.mp3?v=1730410002" length="12439699" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Moses and the Journey of Faith</category>
     </item>
     <item>
@@ -4986,12 +5037,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>To Help In Suffering</title>
-      <description>Matthew 21:1-17 | Speaker: Greg Thompson | Series: The Necessary Suffering</description>
+      <description>Matthew 21:1-17 | Speaker: Andrew Field | Series: The Necessary Suffering</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209251</guid>
       <pubDate>Sun, 29 Mar 2015 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209251/To+Help+In+Suffering.mp3?v=1730409512" length="9202350" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>The Necessary Suffering</category>
     </item>
     <item>
@@ -5006,12 +5057,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>To Turn Away Suffering</title>
-      <description>Romans 3:10-12, 3:18-26 | Speaker: Greg Thompson | Series: The Necessary Suffering</description>
+      <description>Romans 3:10-12, 3:18-26 | Speaker: Andrew Field | Series: The Necessary Suffering</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209239</guid>
       <pubDate>Sun, 15 Mar 2015 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209239/To+Turn+Away+Suffering.mp3?v=1730409440" length="11418135" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>The Necessary Suffering</category>
     </item>
     <item>
@@ -5126,32 +5177,32 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Immanuel</title>
-      <description>Hebrews 1:1-4 | Speaker: Greg Thompson | Series: The Story of Jesus Is Our Story</description>
+      <description>Hebrews 1:1-4 | Speaker: Andrew Field | Series: The Story of Jesus Is Our Story</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209183</guid>
       <pubDate>Sun, 21 Dec 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209183/Immanuel.mp3?v=1730408720" length="10939373" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>The Story of Jesus Is Our Story</category>
     </item>
     <item>
       <title>Making Purification for Sins</title>
-      <description>Hebrews 1:1-4 | Speaker: Greg Thompson | Series: The Story of Jesus Is Our Story</description>
+      <description>Hebrews 1:1-4 | Speaker: John Cunningham | Series: The Story of Jesus Is Our Story</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209178</guid>
       <pubDate>Sun, 14 Dec 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209178/Making+Purification+for+Sins.mp3?v=1730408695" length="11516570" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>John Cunningham</category>
       <category>The Story of Jesus Is Our Story</category>
     </item>
     <item>
       <title>In These Last Days</title>
-      <description>Hebrews 1:1-4; 2 Peter 3:8-10 | Speaker: Greg Thompson | Series: The Story of Jesus Is Our Story</description>
+      <description>Hebrews 1:1-4; 2 Peter 3:8-10 | Speaker: Andrew Field | Series: The Story of Jesus Is Our Story</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209173</guid>
       <pubDate>Sun, 07 Dec 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209173/In+These+Last+Days.mp3?v=1730408665" length="10001629" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>The Story of Jesus Is Our Story</category>
     </item>
     <item>
@@ -5206,22 +5257,22 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Fleeing a Common Darkness</title>
-      <description>Ephesians 4:17-24 | Speaker: Greg Thompson | Series: The Many and the One: Studies in Ephesians</description>
+      <description>Ephesians 4:17-24 | Speaker: Andrew Field | Series: The Many and the One: Studies in Ephesians</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209142</guid>
       <pubDate>Sun, 26 Oct 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209142/Fleeing+a+Common+Darkness.mp3?v=1730408284" length="10611879" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>The Many and the One: Studies in Ephesians</category>
     </item>
     <item>
       <title>Pursuing a Common Goal</title>
-      <description>Ephesians 4:1-16 | Speaker: Greg Thompson | Series: The Many and the One: Studies in Ephesians</description>
+      <description>Ephesians 4:1-16 | Speaker: Andrew Field | Series: The Many and the One: Studies in Ephesians</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209137</guid>
       <pubDate>Sun, 19 Oct 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209137/Pursuing+a+Common+Goal.mp3?v=1730408253" length="11696640" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>The Many and the One: Studies in Ephesians</category>
     </item>
     <item>
@@ -5326,42 +5377,42 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Speaking Our Hope</title>
-      <description>Philippians 4:4-8 | Speaker: Greg Thompson | Series: The Discipline of Hope</description>
+      <description>Philippians 4:4-8 | Speaker: Andrew Field | Series: The Discipline of Hope</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209076</guid>
       <pubDate>Sun, 27 Jul 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209076/Speaking+Our+Hope.mp3?v=1730407718" length="9376810" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>The Discipline of Hope</category>
     </item>
     <item>
       <title>The Word of Hope</title>
-      <description>2 Timothy 3:14-17 | Speaker: Greg Thompson | Series: The Discipline of Hope</description>
+      <description>2 Timothy 3:14-17 | Speaker: Andrew Field | Series: The Discipline of Hope</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209075</guid>
       <pubDate>Sun, 20 Jul 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209075/The+Word+of+Hope.mp3?v=1730407712" length="12010579" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>The Discipline of Hope</category>
     </item>
     <item>
       <title>Resting in Hope</title>
-      <description>Exodus 20:2, 8-11 | Speaker: Greg Thompson | Series: The Discipline of Hope</description>
+      <description>Exodus 20:2, 8-11 | Speaker: John Cunningham | Series: The Discipline of Hope</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209074</guid>
       <pubDate>Sun, 13 Jul 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209074/Resting+in+Hope.mp3?v=1730407707" length="11041959" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>John Cunningham</category>
       <category>The Discipline of Hope</category>
     </item>
     <item>
       <title>Learning to Hope</title>
-      <description>Romans 12:2 | Speaker: Greg Thompson | Series: The Discipline of Hope</description>
+      <description>Romans 12:2 | Speaker: John Cunningham | Series: The Discipline of Hope</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209073</guid>
       <pubDate>Sun, 06 Jul 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209073/Learning+to+Hope.mp3?v=1730407701" length="8766328" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>John Cunningham</category>
       <category>The Discipline of Hope</category>
     </item>
     <item>
@@ -5446,12 +5497,11 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Purpose for the Purposeless</title>
-      <description>Matthew 28:18-20 | Speaker: Greg Thompson | Series: Words of Life</description>
+      <description>Matthew 28:18-20 | Series: Words of Life</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209058</guid>
       <pubDate>Sun, 04 May 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209058/Purpose+for+the+Purposeless.mp3?v=1730407437" length="11029577" type="audio/mpeg" />
-      <category>Greg Thompson</category>
       <category>Words of Life</category>
     </item>
     <item>
@@ -5476,12 +5526,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>The Temptation to Test God</title>
-      <description>Luke 4:9-13 | Speaker: Greg Thompson | Series: Hearts of Light and Darkness</description>
+      <description>Luke 4:9-13 | Speaker: Andrew Field | Series: Hearts of Light and Darkness</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209049</guid>
       <pubDate>Sun, 13 Apr 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209049/The+Temptation+to+Test+God.mp3?v=1730407389" length="13742288" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Hearts of Light and Darkness</category>
     </item>
     <item>
@@ -5496,42 +5546,42 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>The Temptation Not to Wait</title>
-      <description>Luke 4:1-4 | Speaker: Greg Thompson | Series: Hearts of Light and Darkness</description>
+      <description>Luke 4:1-4 | Speaker: Michael Hall | Series: Hearts of Light and Darkness</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209044</guid>
       <pubDate>Sun, 30 Mar 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209044/The+Temptation+Not+to+Wait.mp3?v=1730407359" length="10566720" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Michael Hall</category>
       <category>Hearts of Light and Darkness</category>
     </item>
     <item>
       <title>The Emotional Context of Temptation</title>
-      <description>Genesis 3:7-12 | Speaker: Greg Thompson | Series: Hearts of Light and Darkness</description>
+      <description>Genesis 3:7-12 | Speaker: John Cunningham | Series: Hearts of Light and Darkness</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209040</guid>
       <pubDate>Sun, 23 Mar 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209040/The+Emotional+Context+of+Temptation.mp3?v=1730407335" length="10328256" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>John Cunningham</category>
       <category>Hearts of Light and Darkness</category>
     </item>
     <item>
       <title>The Dynamics of Temptation</title>
-      <description>Genesis 3:1-7 | Speaker: Greg Thompson | Series: Hearts of Light and Darkness</description>
+      <description>Genesis 3:1-7 | Speaker: Andrew Field | Series: Hearts of Light and Darkness</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209036</guid>
       <pubDate>Sun, 16 Mar 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209036/The+Dynamics+of+Temptation.mp3?v=1730407309" length="7296418" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Hearts of Light and Darkness</category>
     </item>
     <item>
       <title>The Impetus of Temptation</title>
-      <description>Genesis 2:9, 3:6 | Speaker: Greg Thompson | Series: Hearts of Light and Darkness</description>
+      <description>Genesis 2:9, 3:6 | Speaker: John Cunningham | Series: Hearts of Light and Darkness</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209032</guid>
       <pubDate>Sun, 09 Mar 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209032/The+Impetus+of+Temptation.mp3?v=1730407285" length="6833215" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>John Cunningham</category>
       <category>Hearts of Light and Darkness</category>
     </item>
     <item>
@@ -5636,22 +5686,22 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>The Angel&apos;s Song of Love</title>
-      <description>Luke 2:8-14 | Speaker: Greg Thompson | Series: The Songs of Advent</description>
+      <description>Luke 2:8-14 | Speaker: John Cunningham | Series: The Songs of Advent</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209003</guid>
       <pubDate>Sun, 22 Dec 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209003/The+Angel%26%23039%3Bs+Song+of+Love.mp3?v=1730406936" length="7286700" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>John Cunningham</category>
       <category>The Songs of Advent</category>
     </item>
     <item>
       <title>Mary&apos;s Song of Joy</title>
-      <description>Luke 1:46-55 | Speaker: Greg Thompson | Series: The Songs of Advent</description>
+      <description>Luke 1:46-55 | Speaker: Andrew Field | Series: The Songs of Advent</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209002</guid>
       <pubDate>Sun, 15 Dec 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209002/Mary%26%23039%3Bs+Song+of+Joy.mp3?v=1730406930" length="7261518" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>The Songs of Advent</category>
     </item>
     <item>
@@ -5797,12 +5847,12 @@ Including communion prayers | Speaker: Greg Thompson | Series: Communion with Go
     </item>
     <item>
       <title>Deacons: imitating Christ by Serving the Church and the World</title>
-      <description>Acts 6:1-7 | Speaker: Greg Thompson | Series: On Leadership</description>
+      <description>Acts 6:1-7 | Speaker: John Cunningham | Series: On Leadership</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208957</guid>
       <pubDate>Sun, 25 Aug 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208957/Deacons%3A+imitating+Christ+by+Serving+the+Church+and+the+World.mp3?v=1730406469" length="8587285" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>John Cunningham</category>
       <category>On Leadership</category>
     </item>
     <item>
@@ -5813,27 +5863,24 @@ Including communion prayers | Speaker: Greg Thompson | Series: Communion with Go
       <pubDate>Sun, 18 Aug 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208956/Praying+to+Our+Deliverer.mp3?v=1730406463" length="6522984" type="audio/mpeg" />
       <category>Wade Bradshaw</category>
-      <category>Psalms</category>
     </item>
     <item>
       <title>Praying for His Face</title>
-      <description>Psalm 67 | Speaker: Greg Thompson</description>
+      <description>Psalm 67 | Speaker: Andrew Field</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208955</guid>
       <pubDate>Sun, 11 Aug 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208955/Praying+for+His+Face.mp3?v=1730406458" length="6606681" type="audio/mpeg" />
-      <category>Greg Thompson</category>
-      <category>Psalms</category>
+      <category>Andrew Field</category>
     </item>
     <item>
       <title>Singing the Glory</title>
-      <description>Psalm 66 | Speaker: Greg Thompson</description>
+      <description>Psalm 66 | Speaker: Drew Trotter</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208954</guid>
       <pubDate>Sun, 04 Aug 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208954/Singing+the+Glory.mp3?v=1730406452" length="10771435" type="audio/mpeg" />
-      <category>Greg Thompson</category>
-      <category>Psalms</category>
+      <category>Drew Trotter</category>
     </item>
     <item>
       <title>Praying Our Gratitude</title>
@@ -5843,7 +5890,6 @@ Including communion prayers | Speaker: Greg Thompson | Series: Communion with Go
       <pubDate>Sun, 28 Jul 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208952/Praying+Our+Gratitude.mp3?v=1730406446" length="6041182" type="audio/mpeg" />
       <category>Wade Bradshaw</category>
-      <category>Psalms</category>
     </item>
     <item>
       <title>Praying Our Complaint</title>
@@ -5853,56 +5899,53 @@ Including communion prayers | Speaker: Greg Thompson | Series: Communion with Go
       <pubDate>Sun, 21 Jul 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208951/Praying+Our+Complaint.mp3?v=1730406440" length="6289659" type="audio/mpeg" />
       <category>Wade Bradshaw</category>
-      <category>Psalms</category>
     </item>
     <item>
       <title>Praying for Comfort</title>
-      <description>Psalm 63 | Speaker: Greg Thompson</description>
+      <description>Psalm 63 | Speaker: Joe Magri</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208950</guid>
       <pubDate>Sun, 14 Jul 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208950/Praying+for+Comfort.mp3?v=1730406434" length="6313587" type="audio/mpeg" />
-      <category>Greg Thompson</category>
-      <category>Psalms</category>
+      <category>Joe Magri</category>
     </item>
     <item>
       <title>Praying to Our Rock</title>
-      <description>Psalm 62 | Speaker: Greg Thompson</description>
+      <description>Psalm 62 | Speaker: Shawn Slate</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208949</guid>
       <pubDate>Sun, 07 Jul 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208949/Praying+to+Our+Rock.mp3?v=1730406428" length="8905770" type="audio/mpeg" />
-      <category>Greg Thompson</category>
-      <category>Psalms</category>
+      <category>Shawn Slate</category>
     </item>
     <item>
       <title>Strengthening the Church: The Great Commission</title>
-      <description>Matthew 28:19-20 | Speaker: Greg Thompson | Series: Living the Gospel Together</description>
+      <description>Matthew 28:19-20 | Speaker: Andrew Field | Series: Living the Gospel Together</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208947</guid>
       <pubDate>Sun, 30 Jun 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208947/Strengthening+the+Church%3A+The+Great+Commission.mp3?v=1730406251" length="6652656" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Living the Gospel Together</category>
     </item>
     <item>
       <title>Strengthening the Church: One Body, Many Gifts</title>
-      <description>1 Corinthians 12:4-7, 12-20 | Speaker: Greg Thompson | Series: Living the Gospel Together</description>
+      <description>1 Corinthians 12:4-7, 12-20 | Speaker: Andrew Field | Series: Living the Gospel Together</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208946</guid>
       <pubDate>Sun, 23 Jun 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208946/Strengthening+the+Church%3A+One+Body%2C+Many+Gifts.mp3?v=1730406245" length="7342893" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Living the Gospel Together</category>
     </item>
     <item>
       <title>Strengthening the Church: One Lord, One Faith&quot;</title>
-      <description>Ephesians 4:1-7 | Speaker: Greg Thompson | Series: Living the Gospel Together</description>
+      <description>Ephesians 4:1-7 | Speaker: Andrew Field | Series: Living the Gospel Together</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208943</guid>
       <pubDate>Sun, 16 Jun 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208943/Strengthening+the+Church%3A+One+Lord%2C+One+Faith%26quot%3B.mp3?v=1730406225" length="7638600" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Living the Gospel Together</category>
     </item>
     <item>
@@ -6037,32 +6080,32 @@ Including communion prayers | Speaker: Greg Thompson | Series: Communion with Go
     </item>
     <item>
       <title>The Death of Sloth</title>
-      <description>Proverbs 13:4 | Speaker: Greg Thompson | Series: Lent</description>
+      <description>Proverbs 13:4 | Speaker: John Cunningham | Series: Lent</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208896</guid>
       <pubDate>Sun, 10 Mar 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208896/The+Death+of+Sloth.mp3?v=1730405712" length="7695547" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>John Cunningham</category>
       <category>Lent</category>
     </item>
     <item>
       <title>Death of Greed</title>
-      <description>Proverbs 28:25 | Speaker: Greg Thompson | Series: Lent</description>
+      <description>Proverbs 28:25 | Speaker: Andrew Field | Series: Lent</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208892</guid>
       <pubDate>Sun, 03 Mar 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208892/Death+of+Greed.mp3?v=1730405685" length="7185009" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Lent</category>
     </item>
     <item>
       <title>The Death of Gluttony</title>
-      <description>John 6:25-40 | Speaker: Greg Thompson | Series: Lent</description>
+      <description>John 6:25-40 | Speaker: Michael Hall | Series: Lent</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208880</guid>
       <pubDate>Sun, 24 Feb 2013 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208880/The+Death+of+Gluttony.mp3?v=1730405607" length="6891602" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Michael Hall</category>
       <category>Lent</category>
     </item>
     <item>
@@ -6146,21 +6189,21 @@ Including communion prayers | Speaker: Greg Thompson | Series: Communion with Go
     </item>
     <item>
       <title>Born to Die</title>
-      <description>John 1:29 | Speaker: Greg Thompson</description>
+      <description>John 1:29 | Speaker: John Cunningham</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208847</guid>
       <pubDate>Sun, 23 Dec 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208847/Born+to+Die.mp3?v=1730405229" length="8454583" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>John Cunningham</category>
     </item>
     <item>
       <title>Born of a Woman, Born from Above</title>
-      <description>John 1:9-14 | Speaker: Greg Thompson</description>
+      <description>John 1:9-14 | Speaker: Andrew Field</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208829</guid>
       <pubDate>Sun, 02 Dec 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208829/Born+of+a+Woman%2C+Born+from+Above.mp3?v=1730405128" length="7057741" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
     </item>
     <item>
       <title>Introduction to Advent: A Long Pregnancy</title>
@@ -6303,33 +6346,31 @@ Including communion prayers | Speaker: Greg Thompson | Series: Communion with Go
     </item>
     <item>
       <title>Leaders Who Serve</title>
-      <description>1 Timothy 3:1-13 | Speaker: Greg Thompson | Series: On Leadership</description>
+      <description>1 Timothy 3:1-13 | Speaker: Andrew Field | Series: On Leadership</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208783</guid>
       <pubDate>Sun, 19 Aug 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208783/Leaders+Who+Serve.mp3?v=1730404677" length="7508157" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>On Leadership</category>
     </item>
     <item>
       <title>Long Live the King</title>
-      <description>Psalm 61 | Speaker: Greg Thompson</description>
+      <description>Psalm 61 | Speaker: Irwin Ince</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208782</guid>
       <pubDate>Sun, 12 Aug 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208782/Long+Live+the+King.mp3?v=1730404671" length="9315195" type="audio/mpeg" />
-      <category>Greg Thompson</category>
-      <category>Psalms</category>
+      <category>Irwin Ince</category>
     </item>
     <item>
       <title>Praying Our Failures</title>
-      <description>Psalm 60 | Speaker: Greg Thompson</description>
+      <description>Psalm 60 | Speaker: John Cunningham</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208784</guid>
       <pubDate>Sun, 05 Aug 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208784/Praying+Our+Failures.mp3?v=1730404685" length="7289022" type="audio/mpeg" />
-      <category>Greg Thompson</category>
-      <category>Psalms</category>
+      <category>John Cunningham</category>
     </item>
     <item>
       <title>Praying Our Fragility</title>
@@ -6339,7 +6380,6 @@ Including communion prayers | Speaker: Greg Thompson | Series: Communion with Go
       <pubDate>Sun, 29 Jul 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208781/Praying+Our+Fragility.mp3?v=1730404665" length="6893335" type="audio/mpeg" />
       <category>Todd Johnson</category>
-      <category>Psalms</category>
     </item>
     <item>
       <title>Praying for Justice</title>
@@ -6349,7 +6389,6 @@ Including communion prayers | Speaker: Greg Thompson | Series: Communion with Go
       <pubDate>Sun, 22 Jul 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208785/Praying+for+Justice.mp3?v=1730404690" length="6513722" type="audio/mpeg" />
       <category>Wade Bradshaw</category>
-      <category>Psalms</category>
     </item>
     <item>
       <title>Praying Beyond Circumstances</title>
@@ -6359,17 +6398,15 @@ Including communion prayers | Speaker: Greg Thompson | Series: Communion with Go
       <pubDate>Sun, 15 Jul 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208786/Praying%20Beyond%20Circumstances.mp3?v=1730404696" length="4456448" type="audio/mpeg" />
       <category>Todd Johnson</category>
-      <category>Psalms</category>
     </item>
     <item>
       <title>Praying Our Fears</title>
-      <description>Psalm 56 | Speaker: Greg Thompson</description>
+      <description>Psalm 56 | Speaker: John Cunningham</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208787</guid>
       <pubDate>Sun, 08 Jul 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208787/Praying+Our+Fears.mp3?v=1730404702" length="7369806" type="audio/mpeg" />
-      <category>Greg Thompson</category>
-      <category>Psalms</category>
+      <category>John Cunningham</category>
     </item>
     <item>
       <title>Praying Our Distress</title>
@@ -6379,7 +6416,6 @@ Including communion prayers | Speaker: Greg Thompson | Series: Communion with Go
       <pubDate>Sun, 01 Jul 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208788/Praying+Our+Distress.mp3?v=1730404708" length="7378973" type="audio/mpeg" />
       <category>Wade Bradshaw</category>
-      <category>Psalms</category>
     </item>
     <item>
       <title>Praying for Help</title>
@@ -6389,7 +6425,6 @@ Including communion prayers | Speaker: Greg Thompson | Series: Communion with Go
       <pubDate>Sun, 24 Jun 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208789/Praying+for+Help.mp3?v=1730404714" length="7019555" type="audio/mpeg" />
       <category>Greg Thompson</category>
-      <category>Psalms</category>
     </item>
     <item>
       <title>Praying Against Foolishness</title>
@@ -6399,36 +6434,35 @@ Including communion prayers | Speaker: Greg Thompson | Series: Communion with Go
       <pubDate>Sun, 17 Jun 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208790/Praying+Against+Foolishness.mp3?v=1730404720" length="7423941" type="audio/mpeg" />
       <category>Greg Thompson</category>
-      <category>Psalms</category>
     </item>
     <item>
       <title>Money and Approval</title>
-      <description>Luke 16:1-13; 1 Timothy 6:10 | Speaker: Greg Thompson | Series: Stewardship</description>
+      <description>Luke 16:1-13; 1 Timothy 6:10 | Speaker: Andrew Field | Series: Stewardship</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208824</guid>
       <pubDate>Sun, 10 Jun 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208824/Money+and+Approval.mp3?v=1730405097" length="7093345" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Stewardship</category>
     </item>
     <item>
       <title>Money and Security</title>
-      <description>Luke 12:22-34 1 Timothy 6:10 | Speaker: Greg Thompson | Series: Stewardship</description>
+      <description>Luke 12:22-34 1 Timothy 6:10 | Speaker: Andrew Field | Series: Stewardship</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208823</guid>
       <pubDate>Sun, 03 Jun 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208823/Money+and+Security.mp3?v=1730404905" length="7175160" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Stewardship</category>
     </item>
     <item>
       <title>Money and Pleasure</title>
-      <description>Luke 12:13-21 | Speaker: Greg Thompson | Series: Stewardship</description>
+      <description>Luke 12:13-21 | Speaker: Andrew Field | Series: Stewardship</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-208822</guid>
       <pubDate>Sun, 27 May 2012 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/208822/Money+and+Pleasure.mp3?v=1730404899" length="8652527" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>Stewardship</category>
     </item>
   </channel>

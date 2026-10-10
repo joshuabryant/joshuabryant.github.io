@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Sermon Archive, 2012–2024, Trinity Presbyterian Church, Charlottesville, VA</title>
     <link>https://www.trinitycville.org</link>
     <description>Sermon audio archive from Trinity Presbyterian Church in Charlottesville, Virginia, spanning 2012 through 2024.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2026 01:52:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 22:48:59 GMT</lastBuildDate>
     <generator>TPC Sermon Archive Generator</generator>
 
     <item>
@@ -380,11 +379,12 @@
     </item>
     <item>
       <title>You Can Be Ready for the Second Advent</title>
-      <description>James 4:13-5:11</description>
+      <description>James 4:13-5:11 | Speaker: Greg Scharf</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-427087</guid>
       <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/427087/You+Can+Be+Ready+for+the+Second+Advent.mp3?v=1730425857" length="11800737" type="audio/mpeg" />
+      <category>Greg Scharf</category>
     </item>
     <item>
       <title>Christmas Eve 2023</title>
@@ -762,11 +762,12 @@ Rom 3:21-25 | Speaker: Chris Colquitt</description>
     </item>
     <item>
       <title>The Qualifications of Shepherds</title>
-      <description>1 Timothy 3:1-7 | Series: A Shepherding Community</description>
+      <description>1 Timothy 3:1-7 | Speaker: Greg Scharf | Series: A Shepherding Community</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210715</guid>
       <pubDate>Sun, 26 Mar 2023 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210715/The+Qualifications+of+Shepherds.mp3?v=1730424624" length="46781279" type="audio/mpeg" />
+      <category>Greg Scharf</category>
       <category>A Shepherding Community</category>
     </item>
     <item>
@@ -2202,12 +2203,12 @@ Please excuse the poor audio for the first few minutes | Speaker: Kelly Scott | 
     </item>
     <item>
       <title>Community and Care</title>
-      <description>Trinity invites us to Community Life. Use your gifts to care for others or reach out to seek care for yourself or loved ones. | Speaker: Jesse Robinson | Series: This Year at Trinity</description>
+      <description>Trinity invites us to Community Life. Use your gifts to care for others or reach out to seek care for yourself or loved ones. | Speaker: Tim Jones | Series: This Year at Trinity</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-210467</guid>
       <pubDate>Sun, 23 Aug 2020 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/210467/Community%20and%20Care.mp3?v=1730421968" length="3131954" type="audio/mpeg" />
-      <category>Jesse Robinson</category>
+      <category>Tim Jones</category>
       <category>This Year at Trinity</category>
     </item>
     <item>
@@ -3624,15 +3625,6 @@ Includes Amy Sherman interviewing George Sanker and Abby Brissett | Speaker: Wad
       <category>Advent 2017</category>
     </item>
     <item>
-      <title>Celebrating the News</title>
-      <description>Luke 1:46-55 | Speaker: Greg Thompson | Series: Advent 2017</description>
-      <link>https://www.trinitycville.org</link>
-      <guid isPermaLink="false">tpc-sermon-209987</guid>
-      <pubDate>Sun, 17 Dec 2017 00:00:00 GMT</pubDate>
-      <category>Greg Thompson</category>
-      <category>Advent 2017</category>
-    </item>
-    <item>
       <title>Recognizing the News</title>
       <description>Luke 1:39-45 | Speaker: Walter Kim | Series: Advent 2017</description>
       <link>https://www.trinitycville.org</link>
@@ -4000,12 +3992,12 @@ Response to violence in Charlottesville | Speaker: Joe Magri</description>
     <item>
       <title>The Great King Who Chose Great Suffering</title>
       <description>Hebrews 2:5-18
-We apologize for the audio ending abruptly at about 19 minues. | Speaker: Greg Thompson | Series: Partakers in His Suffering</description>
+We apologize for the audio ending abruptly at about 19 minues. | Speaker: John Gayle | Series: Partakers in His Suffering</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209632</guid>
       <pubDate>Sun, 19 Mar 2017 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209632/The+Great+King+Who+Chose+Great+Suffering.mp3?v=1730413611" length="7454774" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>John Gayle</category>
       <category>Partakers in His Suffering</category>
     </item>
     <item>
@@ -4027,16 +4019,6 @@ We apologize for the audio ending abruptly at about 19 minues. | Speaker: Greg T
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209628/His+Presence+in+Our+Darkness.mp3?v=1730413587" length="10891257" type="audio/mpeg" />
       <category>Wade Bradshaw</category>
       <category>Partakers in His Suffering</category>
-    </item>
-    <item>
-      <title>A Suffering Community</title>
-      <description>Acts 14:8-23
-We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series: A Generous Community: Studies in the Book of Acts</description>
-      <link>https://www.trinitycville.org</link>
-      <guid isPermaLink="false">tpc-sermon-209622</guid>
-      <pubDate>Sun, 26 Feb 2017 00:00:00 GMT</pubDate>
-      <category>Wade Bradshaw</category>
-      <category>A Generous Community: Studies in the Book of Acts</category>
     </item>
     <item>
       <title>A Welcoming Community</title>
@@ -4220,12 +4202,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Learning the Cry of Lament</title>
-      <description>Lamentations 1 | Speaker: Greg Thompson | Series: Tears for the World</description>
+      <description>Lamentations 1 | Speaker: Robert Cunningham | Series: Tears for the World</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209553</guid>
       <pubDate>Sun, 16 Oct 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209553/Learning+the+Cry+of+Lament.mp3?v=1730412671" length="10840497" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Tears for the World</category>
     </item>
     <item>
@@ -4348,12 +4330,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>His Welcome in Our Rejection</title>
-      <description>Luke 25:1-3, 11-32 | Speaker: Greg Thompson | Series: Let Not Your Hearts Be Troubled</description>
+      <description>Luke 25:1-3, 11-32 | Speaker: Robert Cunningham | Series: Let Not Your Hearts Be Troubled</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209509</guid>
       <pubDate>Sun, 17 Jul 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209509/His+Welcome+in+Our+Rejection.mp3?v=1730412212" length="10483198" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Robert Cunningham</category>
       <category>Let Not Your Hearts Be Troubled</category>
     </item>
     <item>
@@ -4448,12 +4430,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Pentecost Fire</title>
-      <description>Acts 2:1-21, Ephesians 5:18 | Speaker: Greg Thompson</description>
+      <description>Acts 2:1-21, Ephesians 5:18 | Speaker: Andrew Field</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209475</guid>
       <pubDate>Sun, 08 May 2016 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209475/Pentecost+Fire.mp3?v=1730411828" length="12754475" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
     </item>
     <item>
       <title>The Call of Resurrection</title>
@@ -4826,7 +4808,7 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
       <category>Moses and the Journey of Faith</category>
     </item>
     <item>
-      <title>Community and it&apos;s Obstacles</title>
+      <title>Community and its Obstacles</title>
       <description>Exodus 17:1-7 | Speaker: Joe Magri | Series: Moses and the Journey of Faith</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209321</guid>
@@ -4873,16 +4855,6 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
       <pubDate>Sun, 12 Jul 2015 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209309/The+Vocation+of+Deliverance.mp3?v=1730410039" length="10765654" type="audio/mpeg" />
       <category>Wade Bradshaw</category>
-      <category>Moses and the Journey of Faith</category>
-    </item>
-    <item>
-      <title>Identifying with God’s People</title>
-      <description>Speaker: Greg Thompson | Series: Moses and the Journey of Faith</description>
-      <link>https://www.trinitycville.org</link>
-      <guid isPermaLink="false">tpc-sermon-209304</guid>
-      <pubDate>Sun, 05 Jul 2015 00:00:00 GMT</pubDate>
-      <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209304/Identifying+with+God%C3%A2%C2%80%C2%99s+People.mp3?v=1730410008" length="14425982" type="audio/mpeg" />
-      <category>Greg Thompson</category>
       <category>Moses and the Journey of Faith</category>
     </item>
     <item>
@@ -5367,12 +5339,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Hoping Together</title>
-      <description>Colossians 3:12-17 | Speaker: Greg Thompson | Series: The Discipline of Hope</description>
+      <description>Colossians 3:12-17 | Speaker: Andrew Field | Series: The Discipline of Hope</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209077</guid>
       <pubDate>Sun, 03 Aug 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209077/Hoping+Together.mp3?v=1730407724" length="10257345" type="audio/mpeg" />
-      <category>Greg Thompson</category>
+      <category>Andrew Field</category>
       <category>The Discipline of Hope</category>
     </item>
     <item>
@@ -5497,11 +5469,12 @@ We apologize that the sermon was not recorded. | Speaker: Wade Bradshaw | Series
     </item>
     <item>
       <title>Purpose for the Purposeless</title>
-      <description>Matthew 28:18-20 | Series: Words of Life</description>
+      <description>Matthew 28:18-20 | Speaker: Gary Haugen | Series: Words of Life</description>
       <link>https://www.trinitycville.org</link>
       <guid isPermaLink="false">tpc-sermon-209058</guid>
       <pubDate>Sun, 04 May 2014 00:00:00 GMT</pubDate>
       <enclosure url="https://cdn.sitetheory.io/nest001/site/787/209058/Purpose+for+the+Purposeless.mp3?v=1730407437" length="11029577" type="audio/mpeg" />
+      <category>Gary Haugen</category>
       <category>Words of Life</category>
     </item>
     <item>
